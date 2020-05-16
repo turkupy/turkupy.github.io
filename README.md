@@ -1,3 +1,0 @@
-# Turkupy home
-
-- Uses yarn
