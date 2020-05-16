@@ -1,22 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
-    },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    title: `Turku.py`,
+    description: `Website of Turku.py-meetup`,
+    siteUrl: `https://turkupy.github.io`,
   },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
+        path: `${__dirname}/content/events`,
+        name: `events`,
       },
     },
     {
@@ -24,6 +17,13 @@ module.exports = {
       options: {
         path: `${__dirname}/content/assets`,
         name: `assets`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/organizers`,
+        name: `organizers`,
       },
     },
     {
@@ -60,13 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Turku.py`,
+        short_name: `Turku.py`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/logo.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
