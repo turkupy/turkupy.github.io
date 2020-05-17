@@ -4,7 +4,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
-  const eventPage = path.resolve(`./src/templates/event-page.js`)
+  const eventPage = path.resolve(`./src/templates/EventPage.jsx`)
   const result = await graphql(
     `
       {

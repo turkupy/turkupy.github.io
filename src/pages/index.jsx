@@ -1,12 +1,12 @@
 // Gatsby supports TypeScript natively!
 import React from "react"
-import { Link, graphql } from "gatsby"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
-import Event from "../components/event"
-import Bio from "../components/bio"
+import { graphql } from "gatsby"
+import Layout from "../components/Layout"
+import SEO from "../components/Seo"
+import Event from "../components/Event"
+import Bio from "../components/Bio"
 import styled from "styled-components"
+import { colors } from "../utils/styles"
 
 
 const EventContainer = styled.div`
@@ -30,7 +30,7 @@ const OrganizerContainer = styled.div`
 `
 
 const PlainText = styled.p`
-  color: #808285;
+  color: ${colors.darkGrey};
 `
 
 const Index = ({ data }) => {
@@ -40,7 +40,8 @@ const Index = ({ data }) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO />
+      <SEO title={siteTitle} />
+      <h1>Turku.py</h1>
       <h2>We are a computer science community</h2>
       <PlainText>
         Turku.py is a programming community for women and non-binaries in Turku, Finland. We organize meetups, workshops and afterworks that aim to support the local tech culture, share skills and knowlegde and inspire people from minority groups in the fields of programming, devops and data science.
