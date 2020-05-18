@@ -7,4 +7,12 @@ speakers:
 host: Anders Innovations
 type: "event"
 ---
-Our December meetup with a "little xmas" theme was hosted by Anders at their Turku office. Mila presented her Mimosa machine project, which used a z-wave remote control and python to mix some drinks. Eeva held a presentation about how artificial intelligence can be used in accounting.
+Our December meetup with a "little xmas" theme was hosted by Anders at their Turku office.
+
+Mila presented her Mimosa machine project, which used a z-wave remote control and python to mix some drinks.
+
+![Mila and the mimosa machine.](mila.jpg)
+
+Mathematician Eeva Rauramo held a presentation about how artificial intelligence can be used in accounting and what neural networks actually are under the hood.
+
+![Eeva presenting about neural networks.](eeva.jpg)
