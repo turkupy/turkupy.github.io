@@ -2,8 +2,8 @@
 title: "Turku.py goes Data Science!"
 date: "2019-10-23"
 speakers:
-    - Anniina
-    - Jenna
+  - Anniina
+  - Jenna
 host: Valohai
 type: "event"
 ---
@@ -15,4 +15,3 @@ Our speakers Anniina and Jenna held presentations about clustering and natural l
 ![Jenna talking about analyzing twitter content.](jenna.jpg)
 
 ![Anniina presenting about clustering.](anniina.jpg)
-

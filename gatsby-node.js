@@ -1,10 +1,10 @@
-const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
+const path = require("path")
+const { createFilePath } = require("gatsby-source-filesystem")
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
-  const eventPage = path.resolve(`./src/templates/event-page.js`)
+  const eventPage = path.resolve("./src/templates/EventPage.jsx")
   const result = await graphql(
     `
       {
@@ -33,7 +33,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   const events = result.data.allMarkdownRemark.edges
 
-  events.forEach((event) => {
+  events.forEach(event => {
     createPage({
       path: event.node.fields.slug,
       component: eventPage,
@@ -47,10 +47,10 @@ exports.createPages = async ({ graphql, actions }) => {
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
-  if (node.internal.type === `MarkdownRemark`) {
+  if (node.internal.type === "MarkdownRemark") {
     const value = createFilePath({ node, getNode })
     createNodeField({
-      name: `slug`,
+      name: "slug",
       node,
       value,
     })
