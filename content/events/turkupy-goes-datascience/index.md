@@ -8,4 +8,10 @@ host: Valohai
 type: "event"
 ---
 
-Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna. Our speakers Anniina and Jenna held presentations about clustering and natural language processing in analyzing feelings in Twitter content.
+Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna.
+
+Our speakers Anniina and Jenna held presentations about clustering and natural language processing in analyzing feelings in Twitter content.
+
+![Jenna talking about analyzing twitter content.](jenna.jpg)
+
+![Anniina presenting about clustering.](anniina.jpg)

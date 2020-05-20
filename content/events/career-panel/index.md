@@ -9,4 +9,8 @@ host: Reaktor
 type: "event"
 ---
 
-!['The panelists having a discussion.'](./panel.jpg)
+In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.
+
+We also had a get-to-know-each-other bingo and some pizza!
+
+![The panelists having a discussion.](careerpanel.jpg)
