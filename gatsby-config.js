@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Turku.py",
-    description: "Website of Turku.py-meetup",
+    description: "Home page of Turku.py",
     siteUrl: "https://turkupy.github.io",
   },
   plugins: [
@@ -42,7 +42,6 @@ module.exports = {
               wrapperStyle: "margin-bottom: 1.0725rem",
             },
           },
-          "gatsby-remark-prismjs",
           "gatsby-remark-copy-linked-files",
           "gatsby-remark-smartypants",
         ],

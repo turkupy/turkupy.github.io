@@ -60,7 +60,7 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "deploy": "gatsby build && gh-pages -d public -b master",
-    "lint": "eslint './src/**/*.{js,jsx}'"  
+    "lint": "eslint './src/**/*.{js,jsx}'"
   },
   "husky": {
     "hooks": {
