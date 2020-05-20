@@ -8,7 +8,7 @@ The branch for development is called `dev`(`master` is the branch from which dep
 
 ## Note that
 - Uses yarn, beware.
-- Accessibility is checked using the Wave web accessibility evaluation tool. Let's build accessible stuff!
+- Accessibility can be checked using the [Wave web accessibility evaluation browser extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh). Please let us know or make a ticket if you find anything that doesn't fill accessibility requirements!
 - Only use the theme colors (exported in `styles.js`).
 
 ## Deploying
@@ -20,4 +20,3 @@ Currently deploy is done to GitHub pages by making sure `master` is up to date a
 - `styled-components` for, well, styled components and reusability of styles
 - `react-helmet` for site metadata (for search engine config)
 - `gh-pages` for deploy
-- `prismjs` (currently not used)

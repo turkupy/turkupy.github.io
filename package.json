@@ -3,8 +3,8 @@
   "private": true,
   "description": "Homepage of Turku.py",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/turkupy/turkupy.github.io/"
+    "type": "git",
+    "url": "https://github.com/turkupy/turkupy.github.io/"
   },
   "version": "0.1.0",
   "dependencies": {
@@ -26,7 +26,6 @@
     "gatsby-transformer-remark": "^2.8.7",
     "gatsby-transformer-sharp": "^2.5.2",
     "gh-pages": "^2.2.0",
-    "prismjs": "^1.20.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
