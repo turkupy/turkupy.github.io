@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py]]></title><description><![CDATA[Website of Turku.py-meetup]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 16 May 2020 12:49:23 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting started in your Tech Career]]></title><link>https://turkupy.github.io/career-panel/</link><guid isPermaLink="false">https://turkupy.github.io/career-panel/</guid><pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py]]></title><description><![CDATA[Home page of Turku.py]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 May 2020 07:00:54 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting started in your Tech Career]]></title><description><![CDATA[In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was…]]></description><link>https://turkupy.github.io/career-panel/</link><guid isPermaLink="false">https://turkupy.github.io/career-panel/</guid><pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.&lt;/p&gt;
+&lt;p&gt;We also had a get-to-know-each-other bingo and some pizza!&lt;/p&gt;
+&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/d2602/panel.jpg&quot;
+    href=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/d2602/careerpanel.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -15,18 +17,214 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;&amp;#39;The panelists having a discussion.&amp;#39;&quot;
-        title=&quot;&amp;#39;The panelists having a discussion.&amp;#39;&quot;
-        src=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/1c72d/panel.jpg&quot;
-        srcset=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/a80bd/panel.jpg 148w,
-/static/7a5cf73c379e99f8f67d7d2a942e4793/1c91a/panel.jpg 295w,
-/static/7a5cf73c379e99f8f67d7d2a942e4793/1c72d/panel.jpg 590w,
-/static/7a5cf73c379e99f8f67d7d2a942e4793/a8a14/panel.jpg 885w,
-/static/7a5cf73c379e99f8f67d7d2a942e4793/fbd2c/panel.jpg 1180w,
-/static/7a5cf73c379e99f8f67d7d2a942e4793/d2602/panel.jpg 4032w&quot;
+        alt=&quot;The panelists having a discussion.&quot;
+        title=&quot;The panelists having a discussion.&quot;
+        src=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/1c72d/careerpanel.jpg&quot;
+        srcset=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/a80bd/careerpanel.jpg 148w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/1c91a/careerpanel.jpg 295w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/1c72d/careerpanel.jpg 590w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/a8a14/careerpanel.jpg 885w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/fbd2c/careerpanel.jpg 1180w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/d2602/careerpanel.jpg 4032w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instabots and Cybersecurity]]></title><link>https://turkupy.github.io/instabots-and-cybersecurity/</link><guid isPermaLink="false">https://turkupy.github.io/instabots-and-cybersecurity/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Machine learning and Mimosas!]]></title><description><![CDATA[Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office. Mila presented her Mimosa machine project, which…]]></description><link>https://turkupy.github.io/machine-learning-mimosas/</link><guid isPermaLink="false">https://turkupy.github.io/machine-learning-mimosas/</guid><pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office. Mila presented her Mimosa machine project, which used a z-wave remote control and python to mix some drinks. Eeva held a presentation about how artificial intelligence can be used in accounting.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Turku.py goes Data Science!]]></title><description><![CDATA[Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna. Our…]]></description><link>https://turkupy.github.io/turkupy-goes-datascience/</link><guid isPermaLink="false">https://turkupy.github.io/turkupy-goes-datascience/</guid><pubDate>Wed, 23 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna. Our speakers Anniina and Jenna held presentations about clustering and natural language processing in analyzing feelings in Twitter content.&lt;/p&gt;</content:encoded></item></channel></rss>
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instabots and Cybersecurity]]></title><description><![CDATA[In January we visited Identio for a meetup about Instagram bots and Cybersecurity. Heta Pärssinen is a fullstack developer working at…]]></description><link>https://turkupy.github.io/instabots-and-cybersecurity/</link><guid isPermaLink="false">https://turkupy.github.io/instabots-and-cybersecurity/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In January we visited Identio for a meetup about Instagram bots and Cybersecurity.&lt;/p&gt;
+&lt;p&gt;Heta Pärssinen is a fullstack developer working at Duunitori. Building bots for Instagram has been her occasional hobby and she wanted to share the technical secrets with us at this meetup.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/704dca3c0e1e7390763e7213ecbed157/d2602/heta.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGkaRRzw//EABsQAAICAwEAAAAAAAAAAAAAAAECAAMEERIT/9oACAEBAAEFAu1RjZ5qctREqBl+iDzP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BSf/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAbEAADAAIDAAAAAAAAAAAAAAAAARECITFBcf/aAAgBAQAGPwLFcp9laIlo8FiyQ//EABgQAQEBAQEAAAAAAAAAAAAAAAEhEQBR/9oACAEBAAE/IcFAvFuCbzNeI9oDSC9b3rnEYNAZe//aAAwDAQACAAMAAAAQCC//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8Q1BsL/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EAjlt//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExwVFhgXH/2gAIAQEAAT8QWxiUoVdfvWIQDp0Xz9mEwyNJR9YG4cQWnmN61gMYiwOOLesXhkHd+5//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Heta presenting about Instabots.&quot;
+        title=&quot;Heta presenting about Instabots.&quot;
+        src=&quot;/static/704dca3c0e1e7390763e7213ecbed157/1c72d/heta.jpg&quot;
+        srcset=&quot;/static/704dca3c0e1e7390763e7213ecbed157/a80bd/heta.jpg 148w,
+/static/704dca3c0e1e7390763e7213ecbed157/1c91a/heta.jpg 295w,
+/static/704dca3c0e1e7390763e7213ecbed157/1c72d/heta.jpg 590w,
+/static/704dca3c0e1e7390763e7213ecbed157/a8a14/heta.jpg 885w,
+/static/704dca3c0e1e7390763e7213ecbed157/fbd2c/heta.jpg 1180w,
+/static/704dca3c0e1e7390763e7213ecbed157/d2602/heta.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Pauliina Solanne is a software developer at HoxHunt. Cybersecurity is one of her interests, and she shared some interesting insights into social engineering and how our humanness can be used against us.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4c3dbb83863798ee331244fd994b492d/d2602/pauliina.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQb/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABerPuG854j//EABkQAAMBAQEAAAAAAAAAAAAAAAABAhEDEv/aAAgBAQABBQLZFcmSepR0W8KbP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAECESEQIjH/2gAIAQEABj8C2R2tVx4yMlhjbP/EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQXHx/9oACAEBAAE/IeVG+q7muhrVOYOCVTpBD8Iu0Bb5USlJWXk//9oADAMBAAIAAwAAABBw/wD/xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8QNL//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEx/9oACAECAQE/ECmkf//EAB4QAQEAAwABBQAAAAAAAAAAAAERACExYUFRcaHw/9oACAEBAAE/EF3QO4r4eeZJazaaa0BcUiAS9HE2e6C0B7b9frO2UI1/EyIpIlU7IfOf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Pauliina talking about cybersecurity.&quot;
+        title=&quot;Pauliina talking about cybersecurity.&quot;
+        src=&quot;/static/4c3dbb83863798ee331244fd994b492d/1c72d/pauliina.jpg&quot;
+        srcset=&quot;/static/4c3dbb83863798ee331244fd994b492d/a80bd/pauliina.jpg 148w,
+/static/4c3dbb83863798ee331244fd994b492d/1c91a/pauliina.jpg 295w,
+/static/4c3dbb83863798ee331244fd994b492d/1c72d/pauliina.jpg 590w,
+/static/4c3dbb83863798ee331244fd994b492d/a8a14/pauliina.jpg 885w,
+/static/4c3dbb83863798ee331244fd994b492d/fbd2c/pauliina.jpg 1180w,
+/static/4c3dbb83863798ee331244fd994b492d/d2602/pauliina.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Machine learning and Mimosas!]]></title><description><![CDATA[Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office. Mila presented her Mimosa machine project, which…]]></description><link>https://turkupy.github.io/machine-learning-mimosas/</link><guid isPermaLink="false">https://turkupy.github.io/machine-learning-mimosas/</guid><pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office.&lt;/p&gt;
+&lt;p&gt;Mila presented her Mimosa machine project, which used a z-wave remote control and python to mix some drinks.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/d2602/mila.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHN4Em82ZBf/8QAGhABAAIDAQAAAAAAAAAAAAAAAgADAREjMf/aAAgBAQABBQIFmG4y1dHct+HeMz//xAAWEQEBAQAAAAAAAAAAAAAAAAABABP/2gAIAQMBAT8BQsr/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRE2H/2gAIAQIBAT8BTlRtw//EAB0QAAICAQUAAAAAAAAAAAAAAAARASECMTJBcZH/2gAIAQEABj8CUtmpl2bYUlxTOPD/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAxIVH/2gAIAQEAAT8hZaIRx/Cr94GqxysWqsFuAnQYXo9b/9oADAMBAAIAAwAAABBn/wD/xAAYEQACAwAAAAAAAAAAAAAAAAAAARExUf/aAAgBAwEBPxCTYsM//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARQf/aAAgBAgEBPxDkTlxV/8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFBYXHR8P/aAAgBAQABPxCbp0hKvI9n3ERjYp4BfeshFqCHJcQVIFUFgfjHBtIE2uuJjQEETpn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Mila and the mimosa machine.&quot;
+        title=&quot;Mila and the mimosa machine.&quot;
+        src=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/1c72d/mila.jpg&quot;
+        srcset=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/a80bd/mila.jpg 148w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/1c91a/mila.jpg 295w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/1c72d/mila.jpg 590w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/a8a14/mila.jpg 885w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/fbd2c/mila.jpg 1180w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/d2602/mila.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Mathematician Eeva Rauramo held a presentation about how artificial intelligence can be used in accounting and what neural networks actually are under the hood.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9c7160facc2769aa2844719904cbff6e/72e01/eeva.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABqrYtOnUlBX//xAAaEAEAAwADAAAAAAAAAAAAAAACAAEDERIT/9oACAEBAAEFAvEx5Eyj2l6KppTVFPj/xAAWEQEBAQAAAAAAAAAAAAAAAAABABL/2gAIAQMBAT8BBtX/xAAWEQEBAQAAAAAAAAAAAAAAAAABABL/2gAIAQIBAT8BUst//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEhAhExMkH/2gAIAQEABj8C6ZZdMms2IR//xAAbEAEAAQUBAAAAAAAAAAAAAAABABEhMUGBYf/aAAgBAQABPyGrodjpS5XLBGHDguPkQLykFpT/2gAMAwEAAgADAAAAEF/v/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARUf/aAAgBAwEBPxAbrA5f/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAgEBPxBZO3b/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMbFBUZHR/9oACAEBAAE/EHrG/dzFZc4VVfsvh0nh2NgAwDr8nKKHkWejipmwTepP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Eeva presenting about neural networks.&quot;
+        title=&quot;Eeva presenting about neural networks.&quot;
+        src=&quot;/static/9c7160facc2769aa2844719904cbff6e/1c72d/eeva.jpg&quot;
+        srcset=&quot;/static/9c7160facc2769aa2844719904cbff6e/a80bd/eeva.jpg 148w,
+/static/9c7160facc2769aa2844719904cbff6e/1c91a/eeva.jpg 295w,
+/static/9c7160facc2769aa2844719904cbff6e/1c72d/eeva.jpg 590w,
+/static/9c7160facc2769aa2844719904cbff6e/a8a14/eeva.jpg 885w,
+/static/9c7160facc2769aa2844719904cbff6e/72e01/eeva.jpg 1024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Turku.py goes Data Science!]]></title><description><![CDATA[Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna. Our…]]></description><link>https://turkupy.github.io/turkupy-goes-datascience/</link><guid isPermaLink="false">https://turkupy.github.io/turkupy-goes-datascience/</guid><pubDate>Wed, 23 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna.&lt;/p&gt;
+&lt;p&gt;Our speakers Anniina and Jenna held presentations about clustering and natural language processing in analyzing feelings in Twitter content.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5098647ef93b454207d2d510d3b1c169/d2602/jenna.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAcNk9OWuIJ//xAAZEAEBAQEBAQAAAAAAAAAAAAACAQADESH/2gAIAQEAAQUCH1+p6c9FcetNBnQ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAwADAQAAAAAAAAAAAAAAAAECAxExQf/aAAgBAQAGPwJo14mdNPpauUxVOSlvp//EABoQAAMBAQEBAAAAAAAAAAAAAAABITERQYH/2gAIAQEAAT8hSiuJQ1ORRERkNL4TaHvhoXSKU//aAAwDAQACAAMAAAAQiM//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCn/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EImP/8QAHhABAAEEAgMAAAAAAAAAAAAAAREAITFRQXGB0fD/2gAIAQEAAT8QeJAK3Me6Ayl0wLm2rHLqpOEJRiHjmon2i267M8URIMDDe32K/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Jenna talking about analyzing twitter content.&quot;
+        title=&quot;Jenna talking about analyzing twitter content.&quot;
+        src=&quot;/static/5098647ef93b454207d2d510d3b1c169/1c72d/jenna.jpg&quot;
+        srcset=&quot;/static/5098647ef93b454207d2d510d3b1c169/a80bd/jenna.jpg 148w,
+/static/5098647ef93b454207d2d510d3b1c169/1c91a/jenna.jpg 295w,
+/static/5098647ef93b454207d2d510d3b1c169/1c72d/jenna.jpg 590w,
+/static/5098647ef93b454207d2d510d3b1c169/a8a14/jenna.jpg 885w,
+/static/5098647ef93b454207d2d510d3b1c169/fbd2c/jenna.jpg 1180w,
+/static/5098647ef93b454207d2d510d3b1c169/d2602/jenna.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/d2602/anniina.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAUzrMzdAYH//xAAaEAACAgMAAAAAAAAAAAAAAAABAgMRAAQi/9oACAEBAAEFAobbBZKxmulMTgM+uzH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFX/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BR//EABwQAAICAgMAAAAAAAAAAAAAAAABERICAxAhYf/aAAgBAQAGPwJjXHQrZRbwlbGj/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERIWExUZH/2gAIAQEAAT8hROg3UXBqqY/FvKRch8qq9I12mf/aAAwDAQACAAMAAAAQ1B//xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAwEBPxCD/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qg//EABwQAQEBAQACAwAAAAAAAAAAAAERACExQVFhof/aAAgBAQABPxBctJlMfOeu4WoXR99lHIkO/PnBExUlbJ0fl1IuHID9zf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Anniina presenting about clustering.&quot;
+        title=&quot;Anniina presenting about clustering.&quot;
+        src=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/1c72d/anniina.jpg&quot;
+        srcset=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/a80bd/anniina.jpg 148w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/1c91a/anniina.jpg 295w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/1c72d/anniina.jpg 590w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/a8a14/anniina.jpg 885w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/fbd2c/anniina.jpg 1180w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/d2602/anniina.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
