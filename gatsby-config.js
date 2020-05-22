@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Turku.py",
-    description: "Home page of Turku.py",
+    title: "Turku.py -meetups",
+    description: "We are a computer science community",
     siteUrl: "https://turkupy.github.io",
   },
   plugins: [
