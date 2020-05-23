@@ -6,17 +6,15 @@ import SEO from "../components/Seo"
 import Event from "../components/Event"
 //import Bio from "../components/Bio"
 import styled from "styled-components"
-import { colors } from "../utils/styles"
 
 const EventContainer = styled.ul`
   margin: 0 auto;
   list-style-type: none;
   display: grid;
-  grid-template-columns: 50% 50%;
-  column-gap: 1em;
-  row-gap: 1em;
-  @media (max-width: 650px) {
-    grid-template-columns: 100%;
+  grid-gap: 1rem;
+
+  @supports (width: min(2rem, 100%)) {
+    grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr));
   }
 `
 /*
@@ -30,9 +28,6 @@ const OrganizerContainer = styled.div`
   }
 `
 */
-const PlainText = styled.p`
-  color: ${colors.darkGrey};
-`
 
 const Index = ({ data }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -44,14 +39,15 @@ const Index = ({ data }) => {
       <SEO title={siteTitle} />
       <h1>Turku.py</h1>
       <h2>We are a computer science community</h2>
-      <PlainText>
+      <p>
         Turku.py is a programming community for women and non-binaries in Turku,
         Finland. We organize meetups, workshops and afterworks that aim to
         support the local tech culture, share skills and knowlegde and inspire
         people from minority groups in the fields of programming, devops and
         data science.
-      </PlainText>
+      </p>
       <h2>Past events</h2>
+
       <EventContainer>
         {events.map(event => (
           <li key={event.node.frontmatter.title}>
