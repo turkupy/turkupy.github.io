@@ -15,6 +15,7 @@ const EventCard = styled.div`
   border: 1px solid ${colors.darkPink};
   min-height: 13em;
   border-radius: 0.3em;
+  position: relative;
   &:hover,
   &:focus-within {
     cursor: pointer;
@@ -23,6 +24,7 @@ const EventCard = styled.div`
     color: ${colors.darkPink};
     transform: rotate(0.8deg);
   }
+
   &:hover a {
     color: ${colors.darkPink};
   }
@@ -56,13 +58,25 @@ const HostInfo = styled.p`
 const EventInfo = styled.div`
   display: flex;
   flex-direction: column;
+  font-weight: bold;
+`
+
+const StyledLink = styled(Link)`
+  &:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
 `
 
 const Event = ({ title, date, host, slug }) => {
   return (
     <EventCard>
       <EventTitle>
-        <Link to={slug}>{title}</Link>
+        <StyledLink to={slug}>{title} </StyledLink>
       </EventTitle>
       <EventInfo>
         {date && <DateSpan>Date: {formatDate(date)}</DateSpan>}
