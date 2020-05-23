@@ -7,10 +7,18 @@ import { createGlobalStyle } from "styled-components"
 import { colors } from "../utils/styles"
 
 const GlobalStyles = createGlobalStyle`
-  color: ${colors.darkGrey};
-
-  h1, h2 {
+  body { 
     color: ${colors.darkGrey};
+    font-size: calc(1rem + 0.5vw);
+  }
+  h1 {
+    font-size: calc(2rem + 0.5vw);
+    color: ${colors.darkGrey};
+  }
+  
+ h2,h3 {
+    color: ${colors.darkGrey};
+    font-size: calc(1.25rem + 0.5vw);
   }
 `
 
