@@ -10,21 +10,22 @@ const EventCard = styled.div`
   flex-direction: column;
   justify-content: space-between;
   padding: 1.2em;
-  background-color: ${colors.darkPink};
-  color: ${colors.white};
-  border: 1px solid ${colors.darkPink};
+  border: 0.5rem dashed ${colors.darkPink};
+  color: ${colors.darkGrey};
+  line-height: 2rem;
   min-height: 13em;
-  border-radius: 0.3em;
+  border-radius: 0.5em;
+  position: relative;
   &:hover,
   &:focus-within {
     cursor: pointer;
-    border: 1px solid ${colors.darkPink};
+    border: 0.5rem solid ${colors.lightPink};
     background-color: ${colors.white};
-    color: ${colors.darkPink};
     transform: rotate(0.8deg);
   }
+
   &:hover a {
-    color: ${colors.darkPink};
+    color: ${colors.darkGrey};
   }
 `
 
@@ -33,24 +34,19 @@ const EventTitle = styled.h3`
   color: inherit;
 
   & > a {
-    color: ${colors.white};
+    color: ${colors.darkGrey};
   }
 
   & > a:hover,
   & > a:focus {
-    color: ${colors.darkPink};
+    color: ${colors.darkGrey};
+    border-bottom: 0.25rem solid ${colors.lightPink};
   }
 `
 
 const DateSpan = styled.span`
   text-transform: uppercase;
-  font-size: 0.9em;
-  margin-bottom: 1.2em;
   box-sizing: border-box;
-`
-
-const HostInfo = styled.p`
-  margin: 0;
 `
 
 const EventInfo = styled.div`
@@ -58,15 +54,26 @@ const EventInfo = styled.div`
   flex-direction: column;
 `
 
+const StyledLink = styled(Link)`
+  &:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+`
+
 const Event = ({ title, date, host, slug }) => {
   return (
     <EventCard>
       <EventTitle>
-        <Link to={slug}>{title}</Link>
+        <StyledLink to={slug}>{title} </StyledLink>
       </EventTitle>
       <EventInfo>
         {date && <DateSpan>Date: {formatDate(date)}</DateSpan>}
-        <HostInfo>Hosted by {host}</HostInfo>
+        <p>Hosted by {host}</p>
       </EventInfo>
     </EventCard>
   )

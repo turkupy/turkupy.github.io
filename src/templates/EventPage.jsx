@@ -6,18 +6,17 @@ import styled from "styled-components"
 import { colors } from "../utils/styles"
 import Seo from "../components/Seo"
 
+const EventTitle = styled.h1`
+  margin-bottom: 0.4em;
+`
+
+const EventDetail = styled.p`
+  color: ${colors.darkGrey};
+  padding-bottom: 1.4em;
+`
+
 const EventPage = ({ data }) => {
   const event = data.markdownRemark
-
-  const EventTitle = styled.h1`
-    margin-bottom: 0.4em;
-  `
-
-  const EventDetail = styled.p`
-    color: ${colors.darkGrey};
-    padding-bottom: 1.4em;
-  `
-
   return (
     <Layout>
       <Seo title={data.markdownRemark.frontmatter.title} />
