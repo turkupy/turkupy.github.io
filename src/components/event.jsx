@@ -73,7 +73,7 @@ const Event = ({ title, date, host, slug }) => {
       </EventTitle>
       <EventInfo>
         {date && <DateSpan>Date: {formatDate(date)}</DateSpan>}
-        <p>Hosted by {host}</p>
+        {host && <p>Hosted by {host}</p>}
       </EventInfo>
     </EventCard>
   )
