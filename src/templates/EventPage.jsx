@@ -5,6 +5,7 @@ import Layout from "../components/Layout"
 import styled from "styled-components"
 import { colors } from "../utils/styles"
 import Seo from "../components/Seo"
+import { formatDate } from "../utils/utils"
 
 const EventTitle = styled.h1`
   margin-bottom: 0.4em;
@@ -16,17 +17,17 @@ const EventDetail = styled.p`
 `
 
 const EventPage = ({ data }) => {
-  const event = data.markdownRemark
+  const { html, frontmatter } = data.markdownRemark
   return (
     <Layout>
-      <Seo title={data.markdownRemark.frontmatter.title} />
-      <EventTitle>{data.markdownRemark.frontmatter.title}</EventTitle>
+      <Seo title={frontmatter.title} />
+      <EventTitle>{frontmatter.title}</EventTitle>
       <EventDetail>
-        {data.markdownRemark.frontmatter.date} @{" "}
-        {data.markdownRemark.frontmatter.host}
+        {formatDate(frontmatter.date)}
+        {frontmatter.host ? ` @ ${frontmatter.host}` : ""}
       </EventDetail>
 
-      <section dangerouslySetInnerHTML={{ __html: event.html }} />
+      <section dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )
 }
