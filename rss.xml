@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Jun 2020 12:35:36 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting started in your Tech Career]]></title><description><![CDATA[In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was…]]></description><link>https://turkupy.github.io/career-panel/</link><guid isPermaLink="false">https://turkupy.github.io/career-panel/</guid><pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Sep 2020 14:05:54 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics Sunday]]></title><description><![CDATA[We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from…]]></description><link>https://turkupy.github.io/robotics-sunday/</link><guid isPermaLink="false">https://turkupy.github.io/robotics-sunday/</guid><pubDate>Sun, 30 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from different laptops which was very fun. We played around with the motors, sensors and sounds using the Python ev3dev module.   &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/e1596/robotics.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABV4U3QKgL/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAERIT/9oACAEBAAEFAg61tSAKDBL5aaf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/AXhWf//EABwQAAICAgMAAAAAAAAAAAAAAAABETECElFhof/aAAgBAQAGPwLYyj0R0NO1ZHB//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBYf/aAAgBAQABPyFIGjycMzrCVLGCEpSKsewXADRgvQ6Wz//aAAwDAQACAAMAAAAQBN//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFB/9oACAEDAQE/EA1sDt//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAECAQE/EGhlMP/EAB4QAQACAgEFAAAAAAAAAAAAAAERIQAxUUFhcYGR/9oACAEBAAE/EEHV1pLWyPeGq4QIkpB4yPSoN9cjxIgMDp8mMMEC4A2JPF74yIht8gqHYz//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Playing with the robot&quot;
+        title=&quot;Playing with the robot&quot;
+        src=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/1c72d/robotics.jpg&quot;
+        srcset=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/a80bd/robotics.jpg 148w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/1c91a/robotics.jpg 295w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/1c72d/robotics.jpg 590w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/a8a14/robotics.jpg 885w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/fbd2c/robotics.jpg 1180w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/e1596/robotics.jpg 2048w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Effective Python reading circle]]></title><description><![CDATA[In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take…]]></description><link>https://turkupy.github.io/effective-python/</link><guid isPermaLink="false">https://turkupy.github.io/effective-python/</guid><pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take part either as a listener or in the discussion, regardless of how much experience one has in Python programming.&lt;/p&gt;
+&lt;h2&gt;Content&lt;/h2&gt;
+&lt;p&gt;This series of study circles goes over Brett Slatkins book Effective Python, that discusses some specifics of Python programming in regards to style, conventions and gotchas. The difficulty level of the book increases chapter by chapter, so the most interesting circles for beginners are probably the first and second one. After that, we noticed it gets pretty hard.&lt;/p&gt;
+&lt;h2&gt;Chapters and dates&lt;/h2&gt;
+&lt;p&gt;Pythonic Thinking 5.4.20 10-11
+Functions 13.4.20 10-11
+Classes and Inheritance 19.4.20 10-11
+Metaclasses and Attributes 24.6. 11-12
+Concurrency and Parallelism 9.5. 13-14
+Built-in Modules 24.5. 10-11
+Collaboration 31.5. 10-11
+Production 7.6. 10-11&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+&lt;p&gt;During April to June, we managed to have study circles for each chapter!&lt;/p&gt;
+&lt;p&gt;Notes on the meetups can be found in the &lt;a href=&quot;https://github.com/turkupy/effective-python-studygroup&quot;&gt;GitHub repository&lt;/a&gt;. Feel free to add your own notes and create a pull request!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting started in your Tech Career]]></title><description><![CDATA[In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was…]]></description><link>https://turkupy.github.io/career-panel/</link><guid isPermaLink="false">https://turkupy.github.io/career-panel/</guid><pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.&lt;/p&gt;
 &lt;p&gt;We also had a get-to-know-each-other bingo and some pizza!&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
