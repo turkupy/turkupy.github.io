@@ -65,17 +65,19 @@ const StyledLink = styled(Link)`
   }
 `
 
-const Event = ({ title, date, host, slug }) => (
-  <EventCard>
-    <EventTitle>
-      <StyledLink to={slug}>{title} </StyledLink>
-    </EventTitle>
-    <EventInfo>
-      {date && <DateSpan>Date: {formatDate(date)}</DateSpan>}
-      <p>Hosted by {host}</p>
-    </EventInfo>
-  </EventCard>
-)
+const Event = ({ title, date, host, slug }) => {
+  return (
+    <EventCard>
+      <EventTitle>
+        <StyledLink to={slug}>{title} </StyledLink>
+      </EventTitle>
+      <EventInfo>
+        {date && <DateSpan>Date: {formatDate(date)}</DateSpan>}
+        {host && <p>Hosted by {host}</p>}
+      </EventInfo>
+    </EventCard>
+  )
+}
 
 Event.propTypes = {
   title: PropTypes.string.isRequired,
