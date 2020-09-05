@@ -2,10 +2,10 @@ import React from "react"
 import PropTypes from "prop-types"
 
 const Bio = ({ name, github }) => (
-  <div>
+  <article>
     <p>{name}</p>
     <p>{github}</p>
-  </div>
+  </article>
 )
 
 Bio.propTypes = {

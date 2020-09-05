@@ -5,7 +5,7 @@ import PropTypes from "prop-types"
 import { colors } from "../utils/styles"
 import { formatDate } from "../utils/utils"
 
-const EventCard = styled.div`
+const EventCard = styled.article`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
