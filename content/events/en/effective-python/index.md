@@ -6,6 +6,7 @@ speakers:
     - Magda
 host:
 type: "event"
+lang: en
 ---
 
 In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take part either as a listener or in the discussion, regardless of how much experience one has in Python programming.

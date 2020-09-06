@@ -6,6 +6,7 @@ speakers:
   - Heta Pärssinen
 host: Identio
 type: "event"
+lang: sv
 ---
 
 In January we visited Identio for a meetup about Instagram bots and Cybersecurity.
