@@ -6,6 +6,7 @@
 ## More documentation
 
 - [Instructions to add an event](./docs/adding-new-events.md)
+- [About translations](./docs/translations.md)
 
 ## Contibuting
 
