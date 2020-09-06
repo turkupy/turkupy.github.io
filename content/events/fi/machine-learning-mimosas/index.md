@@ -6,6 +6,7 @@ speakers:
   - Eeva Rauramo
 host: Anders Innovations
 type: "event"
+lang: fi
 ---
 
 Our December meetup with a "little xmas" theme was hosted by Anders at their Turku office.

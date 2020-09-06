@@ -7,6 +7,7 @@ speakers:
   - Pauliina Jalava
 host: Reaktor
 type: "event"
+lang: sv
 ---
 
 In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.
