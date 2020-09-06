@@ -81,7 +81,7 @@ const Event = ({ title, date, host, slug }) => {
 
 Event.propTypes = {
   title: PropTypes.string.isRequired,
-  host: PropTypes.string.isRequired,
+  host: PropTypes.string,
   slug: PropTypes.string.isRequired,
   date: PropTypes.string,
 }
