@@ -13,7 +13,7 @@ const Index = ({ data }) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title={siteTitle} />
+      <SEO title={siteTitle} lang={langCode} />
       <IndexPage events={events} langCode={langCode} />
     </Layout>
   )
