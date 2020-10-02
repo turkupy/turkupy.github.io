@@ -8,5 +8,5 @@ assignees: ''
 ---
 
 **What event the translation is missing for:**
-Please provide a link to the english event.
+Please provide a link to the event missing translation, from the target language folder
 
