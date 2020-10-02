@@ -29,3 +29,5 @@ Some notes:
 - **lang** is either en, fi or sv
 
 At least title, date, type and lang are required.
+
+Note, that first and foremost the event should be created in English. If you want, you can add Finnish and Swedish as well, but if you don't, please add an issue that these translations are missing. 
