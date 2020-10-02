@@ -28,7 +28,6 @@ Some notes:
 - **host** is a string
 - **lang** is either en, fi or sv
 
-
 At least title, date, type and lang are required.
 
 4. Copy that file under fi- and sv-folders too. 
