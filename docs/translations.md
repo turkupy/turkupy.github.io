@@ -20,6 +20,8 @@ Events can be found under [content/events](../content/events), and are divided b
 
 There are two cases, when adding new translations - adding new texts to the website, or adding a completely new language. (Adding translations to events happens the same way as creating a new event. See more in [events-doc](./adding-new-events.md))
 
+A note about order of languages - English is the primary language for us, so that should be always created first. Then, if you want, you can add Finnish and Swedish translations, but if you don't, please create an issue so that they will be added at some point.
+
 ### New texts
 
 When adding new texts, add a new entry to [translations.json](../src/utils/translations/translations.json) with the following structure:
