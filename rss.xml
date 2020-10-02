@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Sep 2020 05:30:58 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
-We spent the afternoon figuring out how to make our Lego…]]></description><link>https://turkupy.github.io/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Oct 2020 12:23:26 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
+We spent the afternoon figuring out how to make our Lego…]]></description><link>https://turkupy.github.io/en/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/en/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
@@ -64,7 +64,139 @@ We spent the afternoon figuring out how to make our Lego robot speak and make so
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-Just like last time we used the EV3 Python library to control the robot. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics Sunday]]></title><description><![CDATA[We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from…]]></description><link>https://turkupy.github.io/robotics-sunday/</link><guid isPermaLink="false">https://turkupy.github.io/robotics-sunday/</guid><pubDate>Sun, 30 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from different laptops which was very fun. We played around with the motors, sensors and sounds using the Python ev3dev module.   &lt;/p&gt;
+Just like last time we used the EV3 Python library to control the robot. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
+We spent the afternoon figuring out how to make our Lego…]]></description><link>https://turkupy.github.io/fi/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/fi/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/33c6152b6d675d7599f3d920325198a0/572c8/gals.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQA/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAFo41CXSbL/xAAbEAACAwADAAAAAAAAAAAAAAABAgAREgMTIv/aAAgBAQABBQLk9teH72WacmtQqwn/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQMBAT8BrT//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAECAQE/AaZh/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECERIhMf/aAAgBAQAGPwKE5Jpp8Q4WUrRqzZ6f/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARITFBYZGx/9oACAEBAAE/Ib1kATcOEt3WotSAeEyDyuDyLn7FqF7n/9oADAMBAAIAAwAAABB//wD/xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQMBAT8QYJn/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QQuy//8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFBYYH/2gAIAQEAAT8QQk4Aar12+xV0XGsUvL9tRGhgMIDJUdHbNuHJC0zi9+HmJkjtx//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Friday afternoon in Helsinki&quot;
+        title=&quot;Friday afternoon in Helsinki&quot;
+        src=&quot;/static/33c6152b6d675d7599f3d920325198a0/1c72d/gals.jpg&quot;
+        srcset=&quot;/static/33c6152b6d675d7599f3d920325198a0/a80bd/gals.jpg 148w,
+/static/33c6152b6d675d7599f3d920325198a0/1c91a/gals.jpg 295w,
+/static/33c6152b6d675d7599f3d920325198a0/1c72d/gals.jpg 590w,
+/static/33c6152b6d675d7599f3d920325198a0/a8a14/gals.jpg 885w,
+/static/33c6152b6d675d7599f3d920325198a0/fbd2c/gals.jpg 1180w,
+/static/33c6152b6d675d7599f3d920325198a0/572c8/gals.jpg 1276w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Our Robotics guild met up again on a sunny autumn day, this time in Helsinki.
+We spent the afternoon figuring out how to make our Lego robot speak and make sounds. We tried different ways of making the robot produce various tones, beeps, song lyrics and even Monty Python sayings! &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a7a71d44e20ca9886f2b5c94b1e6c95b/30cf6/robot.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.78378378378378%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIQAxAAAAFBbrYzS5oI+tadORcz/8QAGhAAAwEBAQEAAAAAAAAAAAAAAQIDABIRMf/aAAgBAQABBQKoJfk6cHopmSUjT3x03WZWJ5y4fTv/xAAVEQEBAAAAAAAAAAAAAAAAAAAgQf/aAAgBAwEBPwGj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHRAAAwACAgMAAAAAAAAAAAAAAAERAjEQICFBYv/aAAgBAQAGPwL59M0VQr8seNSIsuLTd6f/xAAfEAEAAgEDBQAAAAAAAAAAAAABABEhEDFhQVFxgZH/2gAIAQEAAT8hfKr2HSD7N8EdVgayy7EKAe8pLyLm4e0IBDBUfRmx0Bmf/9oADAMBAAIAAwAAABAr1Y3/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhQf/aAAgBAwEBPxBtMYR8JT//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QNCbP/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBYVFxgbH/2gAIAQEAAT8QBL1OZwPZqpbVZtRjkIasNlddytkCx1fbAZyOSP0mDkt2ZvT+S8oycviEFHFyhNgZ2RI45jViqQBgT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The robot&quot;
+        title=&quot;The robot&quot;
+        src=&quot;/static/a7a71d44e20ca9886f2b5c94b1e6c95b/1c72d/robot.jpg&quot;
+        srcset=&quot;/static/a7a71d44e20ca9886f2b5c94b1e6c95b/a80bd/robot.jpg 148w,
+/static/a7a71d44e20ca9886f2b5c94b1e6c95b/1c91a/robot.jpg 295w,
+/static/a7a71d44e20ca9886f2b5c94b1e6c95b/1c72d/robot.jpg 590w,
+/static/a7a71d44e20ca9886f2b5c94b1e6c95b/a8a14/robot.jpg 885w,
+/static/a7a71d44e20ca9886f2b5c94b1e6c95b/30cf6/robot.jpg 956w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Just like last time we used the EV3 Python library to control the robot. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
+We spent the afternoon figuring out how to make our Lego…]]></description><link>https://turkupy.github.io/sv/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/sv/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/33c6152b6d675d7599f3d920325198a0/572c8/gals.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQA/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAFo41CXSbL/xAAbEAACAwADAAAAAAAAAAAAAAABAgAREgMTIv/aAAgBAQABBQLk9teH72WacmtQqwn/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQMBAT8BrT//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAECAQE/AaZh/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECERIhMf/aAAgBAQAGPwKE5Jpp8Q4WUrRqzZ6f/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARITFBYZGx/9oACAEBAAE/Ib1kATcOEt3WotSAeEyDyuDyLn7FqF7n/9oADAMBAAIAAwAAABB//wD/xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQMBAT8QYJn/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QQuy//8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFBYYH/2gAIAQEAAT8QQk4Aar12+xV0XGsUvL9tRGhgMIDJUdHbNuHJC0zi9+HmJkjtx//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Friday afternoon in Helsinki&quot;
+        title=&quot;Friday afternoon in Helsinki&quot;
+        src=&quot;/static/33c6152b6d675d7599f3d920325198a0/1c72d/gals.jpg&quot;
+        srcset=&quot;/static/33c6152b6d675d7599f3d920325198a0/a80bd/gals.jpg 148w,
+/static/33c6152b6d675d7599f3d920325198a0/1c91a/gals.jpg 295w,
+/static/33c6152b6d675d7599f3d920325198a0/1c72d/gals.jpg 590w,
+/static/33c6152b6d675d7599f3d920325198a0/a8a14/gals.jpg 885w,
+/static/33c6152b6d675d7599f3d920325198a0/fbd2c/gals.jpg 1180w,
+/static/33c6152b6d675d7599f3d920325198a0/572c8/gals.jpg 1276w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Our Robotics guild met up again on a sunny autumn day, this time in Helsinki.
+We spent the afternoon figuring out how to make our Lego robot speak and make sounds. We tried different ways of making the robot produce various tones, beeps, song lyrics and even Monty Python sayings! &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a7a71d44e20ca9886f2b5c94b1e6c95b/30cf6/robot.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.78378378378378%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIQAxAAAAFBbrYzS5oI+tadORcz/8QAGhAAAwEBAQEAAAAAAAAAAAAAAQIDABIRMf/aAAgBAQABBQKoJfk6cHopmSUjT3x03WZWJ5y4fTv/xAAVEQEBAAAAAAAAAAAAAAAAAAAgQf/aAAgBAwEBPwGj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHRAAAwACAgMAAAAAAAAAAAAAAAERAjEQICFBYv/aAAgBAQAGPwL59M0VQr8seNSIsuLTd6f/xAAfEAEAAgEDBQAAAAAAAAAAAAABABEhEDFhQVFxgZH/2gAIAQEAAT8hfKr2HSD7N8EdVgayy7EKAe8pLyLm4e0IBDBUfRmx0Bmf/9oADAMBAAIAAwAAABAr1Y3/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhQf/aAAgBAwEBPxBtMYR8JT//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QNCbP/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBYVFxgbH/2gAIAQEAAT8QBL1OZwPZqpbVZtRjkIasNlddytkCx1fbAZyOSP0mDkt2ZvT+S8oycviEFHFyhNgZ2RI45jViqQBgT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The robot&quot;
+        title=&quot;The robot&quot;
+        src=&quot;/static/a7a71d44e20ca9886f2b5c94b1e6c95b/1c72d/robot.jpg&quot;
+        srcset=&quot;/static/a7a71d44e20ca9886f2b5c94b1e6c95b/a80bd/robot.jpg 148w,
+/static/a7a71d44e20ca9886f2b5c94b1e6c95b/1c91a/robot.jpg 295w,
+/static/a7a71d44e20ca9886f2b5c94b1e6c95b/1c72d/robot.jpg 590w,
+/static/a7a71d44e20ca9886f2b5c94b1e6c95b/a8a14/robot.jpg 885w,
+/static/a7a71d44e20ca9886f2b5c94b1e6c95b/30cf6/robot.jpg 956w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Just like last time we used the EV3 Python library to control the robot. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics Sunday]]></title><description><![CDATA[We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from…]]></description><link>https://turkupy.github.io/en/robotics-sunday/</link><guid isPermaLink="false">https://turkupy.github.io/en/robotics-sunday/</guid><pubDate>Sun, 30 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from different laptops which was very fun. We played around with the motors, sensors and sounds using the Python ev3dev module.   &lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -96,7 +228,71 @@ Just like last time we used the EV3 Python library to control the robot. &lt;/p&
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Effective Python reading circle]]></title><description><![CDATA[In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take…]]></description><link>https://turkupy.github.io/effective-python/</link><guid isPermaLink="false">https://turkupy.github.io/effective-python/</guid><pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take part either as a listener or in the discussion, regardless of how much experience one has in Python programming.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics Sunday]]></title><description><![CDATA[We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from…]]></description><link>https://turkupy.github.io/fi/robotics-sunday/</link><guid isPermaLink="false">https://turkupy.github.io/fi/robotics-sunday/</guid><pubDate>Sun, 30 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from different laptops which was very fun. We played around with the motors, sensors and sounds using the Python ev3dev module.   &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/e1596/robotics.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABV4U3QKgL/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAERIT/9oACAEBAAEFAg61tSAKDBL5aaf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/AXhWf//EABwQAAICAgMAAAAAAAAAAAAAAAABETECElFhof/aAAgBAQAGPwLYyj0R0NO1ZHB//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBYf/aAAgBAQABPyFIGjycMzrCVLGCEpSKsewXADRgvQ6Wz//aAAwDAQACAAMAAAAQBN//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFB/9oACAEDAQE/EA1sDt//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAECAQE/EGhlMP/EAB4QAQACAgEFAAAAAAAAAAAAAAERIQAxUUFhcYGR/9oACAEBAAE/EEHV1pLWyPeGq4QIkpB4yPSoN9cjxIgMDp8mMMEC4A2JPF74yIht8gqHYz//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Playing with the robot&quot;
+        title=&quot;Playing with the robot&quot;
+        src=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/1c72d/robotics.jpg&quot;
+        srcset=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/a80bd/robotics.jpg 148w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/1c91a/robotics.jpg 295w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/1c72d/robotics.jpg 590w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/a8a14/robotics.jpg 885w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/fbd2c/robotics.jpg 1180w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/e1596/robotics.jpg 2048w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics Sunday]]></title><description><![CDATA[We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from…]]></description><link>https://turkupy.github.io/sv/robotics-sunday/</link><guid isPermaLink="false">https://turkupy.github.io/sv/robotics-sunday/</guid><pubDate>Sun, 30 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from different laptops which was very fun. We played around with the motors, sensors and sounds using the Python ev3dev module.   &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/e1596/robotics.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABV4U3QKgL/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAERIT/9oACAEBAAEFAg61tSAKDBL5aaf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/AXhWf//EABwQAAICAgMAAAAAAAAAAAAAAAABETECElFhof/aAAgBAQAGPwLYyj0R0NO1ZHB//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBYf/aAAgBAQABPyFIGjycMzrCVLGCEpSKsewXADRgvQ6Wz//aAAwDAQACAAMAAAAQBN//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFB/9oACAEDAQE/EA1sDt//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAECAQE/EGhlMP/EAB4QAQACAgEFAAAAAAAAAAAAAAERIQAxUUFhcYGR/9oACAEBAAE/EEHV1pLWyPeGq4QIkpB4yPSoN9cjxIgMDp8mMMEC4A2JPF74yIht8gqHYz//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Playing with the robot&quot;
+        title=&quot;Playing with the robot&quot;
+        src=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/1c72d/robotics.jpg&quot;
+        srcset=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/a80bd/robotics.jpg 148w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/1c91a/robotics.jpg 295w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/1c72d/robotics.jpg 590w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/a8a14/robotics.jpg 885w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/fbd2c/robotics.jpg 1180w,
+/static/e38aa2fb8d41148930e2fb21b8e480f1/e1596/robotics.jpg 2048w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Effective Python reading circle]]></title><description><![CDATA[In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take…]]></description><link>https://turkupy.github.io/en/effective-python/</link><guid isPermaLink="false">https://turkupy.github.io/en/effective-python/</guid><pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take part either as a listener or in the discussion, regardless of how much experience one has in Python programming.&lt;/p&gt;
 &lt;h2&gt;Content&lt;/h2&gt;
 &lt;p&gt;This series of study circles goes over Brett Slatkins book Effective Python, that discusses some specifics of Python programming in regards to style, conventions and gotchas. The difficulty level of the book increases chapter by chapter, so the most interesting circles for beginners are probably the first and second one. After that, we noticed it gets pretty hard.&lt;/p&gt;
 &lt;h2&gt;Chapters and dates&lt;/h2&gt;
@@ -110,7 +306,35 @@ Collaboration 31.5. 10-11
 Production 7.6. 10-11&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
 &lt;p&gt;During April to June, we managed to have study circles for each chapter!&lt;/p&gt;
-&lt;p&gt;Notes on the meetups can be found in the &lt;a href=&quot;https://github.com/turkupy/effective-python-studygroup&quot;&gt;GitHub repository&lt;/a&gt;. Feel free to add your own notes and create a pull request!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting started in your Tech Career]]></title><description><![CDATA[In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was…]]></description><link>https://turkupy.github.io/career-panel/</link><guid isPermaLink="false">https://turkupy.github.io/career-panel/</guid><pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.&lt;/p&gt;
+&lt;p&gt;Notes on the meetups can be found in the &lt;a href=&quot;https://github.com/turkupy/effective-python-studygroup&quot;&gt;GitHub repository&lt;/a&gt;. Feel free to add your own notes and create a pull request!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Effective Python reading circle]]></title><description><![CDATA[In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take…]]></description><link>https://turkupy.github.io/fi/effective-python/</link><guid isPermaLink="false">https://turkupy.github.io/fi/effective-python/</guid><pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take part either as a listener or in the discussion, regardless of how much experience one has in Python programming.&lt;/p&gt;
+&lt;h2&gt;Content&lt;/h2&gt;
+&lt;p&gt;This series of study circles goes over Brett Slatkins book Effective Python, that discusses some specifics of Python programming in regards to style, conventions and gotchas. The difficulty level of the book increases chapter by chapter, so the most interesting circles for beginners are probably the first and second one. After that, we noticed it gets pretty hard.&lt;/p&gt;
+&lt;h2&gt;Chapters and dates&lt;/h2&gt;
+&lt;p&gt;Pythonic Thinking 5.4.20 10-11
+Functions 13.4.20 10-11
+Classes and Inheritance 19.4.20 10-11
+Metaclasses and Attributes 24.6. 11-12
+Concurrency and Parallelism 9.5. 13-14
+Built-in Modules 24.5. 10-11
+Collaboration 31.5. 10-11
+Production 7.6. 10-11&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+&lt;p&gt;During April to June, we managed to have study circles for each chapter!&lt;/p&gt;
+&lt;p&gt;Notes on the meetups can be found in the &lt;a href=&quot;https://github.com/turkupy/effective-python-studygroup&quot;&gt;GitHub repository&lt;/a&gt;. Feel free to add your own notes and create a pull request!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Effective Python reading circle]]></title><description><![CDATA[In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take…]]></description><link>https://turkupy.github.io/sv/effective-python/</link><guid isPermaLink="false">https://turkupy.github.io/sv/effective-python/</guid><pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take part either as a listener or in the discussion, regardless of how much experience one has in Python programming.&lt;/p&gt;
+&lt;h2&gt;Content&lt;/h2&gt;
+&lt;p&gt;This series of study circles goes over Brett Slatkins book Effective Python, that discusses some specifics of Python programming in regards to style, conventions and gotchas. The difficulty level of the book increases chapter by chapter, so the most interesting circles for beginners are probably the first and second one. After that, we noticed it gets pretty hard.&lt;/p&gt;
+&lt;h2&gt;Chapters and dates&lt;/h2&gt;
+&lt;p&gt;Pythonic Thinking 5.4.20 10-11
+Functions 13.4.20 10-11
+Classes and Inheritance 19.4.20 10-11
+Metaclasses and Attributes 24.6. 11-12
+Concurrency and Parallelism 9.5. 13-14
+Built-in Modules 24.5. 10-11
+Collaboration 31.5. 10-11
+Production 7.6. 10-11&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+&lt;p&gt;During April to June, we managed to have study circles for each chapter!&lt;/p&gt;
+&lt;p&gt;Notes on the meetups can be found in the &lt;a href=&quot;https://github.com/turkupy/effective-python-studygroup&quot;&gt;GitHub repository&lt;/a&gt;. Feel free to add your own notes and create a pull request!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting started in your Tech Career]]></title><description><![CDATA[In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was…]]></description><link>https://turkupy.github.io/en/career-panel/</link><guid isPermaLink="false">https://turkupy.github.io/en/career-panel/</guid><pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.&lt;/p&gt;
 &lt;p&gt;We also had a get-to-know-each-other bingo and some pizza!&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -143,7 +367,73 @@ Production 7.6. 10-11&lt;/p&gt;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instabots and Cybersecurity]]></title><description><![CDATA[In January we visited Identio for a meetup about Instagram bots and Cybersecurity. Heta Pärssinen is a fullstack developer working at…]]></description><link>https://turkupy.github.io/instabots-and-cybersecurity/</link><guid isPermaLink="false">https://turkupy.github.io/instabots-and-cybersecurity/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In January we visited Identio for a meetup about Instagram bots and Cybersecurity.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting started in your Tech Career]]></title><description><![CDATA[In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was…]]></description><link>https://turkupy.github.io/fi/career-panel/</link><guid isPermaLink="false">https://turkupy.github.io/fi/career-panel/</guid><pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.&lt;/p&gt;
+&lt;p&gt;We also had a get-to-know-each-other bingo and some pizza!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/d2602/careerpanel.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABkx0RTgUCf//EABgQAQEAAwAAAAAAAAAAAAAAAAECAAMR/9oACAEBAAEFAjZk7GkGiq5cV2S0z//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAMAAwEAAAAAAAAAAAAAAAABEQIhQYH/2gAIAQEABj8CjOelQ1nuGVZps//EABkQAAMBAQEAAAAAAAAAAAAAAAABESFRYf/aAAgBAQABPyHJuSvSJdQZqj9IITCMhNFsgP/aAAwDAQACAAMAAAAQYO//xAAWEQEBAQAAAAAAAAAAAAAAAAAhARD/2gAIAQMBAT8QqZ//xAAXEQADAQAAAAAAAAAAAAAAAAAAAUFR/9oACAECAQE/EFsGf//EAB0QAQEAAgIDAQAAAAAAAAAAAAERAFEhMUFhccH/2gAIAQEAAT8QrVoEXWsAgKjal26yxGzEB595yMvzsP3GgCSRSWTv5k3FWU4z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The panelists having a discussion.&quot;
+        title=&quot;The panelists having a discussion.&quot;
+        src=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/1c72d/careerpanel.jpg&quot;
+        srcset=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/a80bd/careerpanel.jpg 148w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/1c91a/careerpanel.jpg 295w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/1c72d/careerpanel.jpg 590w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/a8a14/careerpanel.jpg 885w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/fbd2c/careerpanel.jpg 1180w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/d2602/careerpanel.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting started in your Tech Career]]></title><description><![CDATA[In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was…]]></description><link>https://turkupy.github.io/sv/career-panel/</link><guid isPermaLink="false">https://turkupy.github.io/sv/career-panel/</guid><pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.&lt;/p&gt;
+&lt;p&gt;We also had a get-to-know-each-other bingo and some pizza!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/d2602/careerpanel.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABkx0RTgUCf//EABgQAQEAAwAAAAAAAAAAAAAAAAECAAMR/9oACAEBAAEFAjZk7GkGiq5cV2S0z//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAMAAwEAAAAAAAAAAAAAAAABEQIhQYH/2gAIAQEABj8CjOelQ1nuGVZps//EABkQAAMBAQEAAAAAAAAAAAAAAAABESFRYf/aAAgBAQABPyHJuSvSJdQZqj9IITCMhNFsgP/aAAwDAQACAAMAAAAQYO//xAAWEQEBAQAAAAAAAAAAAAAAAAAhARD/2gAIAQMBAT8QqZ//xAAXEQADAQAAAAAAAAAAAAAAAAAAAUFR/9oACAECAQE/EFsGf//EAB0QAQEAAgIDAQAAAAAAAAAAAAERAFEhMUFhccH/2gAIAQEAAT8QrVoEXWsAgKjal26yxGzEB595yMvzsP3GgCSRSWTv5k3FWU4z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The panelists having a discussion.&quot;
+        title=&quot;The panelists having a discussion.&quot;
+        src=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/1c72d/careerpanel.jpg&quot;
+        srcset=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/a80bd/careerpanel.jpg 148w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/1c91a/careerpanel.jpg 295w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/1c72d/careerpanel.jpg 590w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/a8a14/careerpanel.jpg 885w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/fbd2c/careerpanel.jpg 1180w,
+/static/7a5cf73c379e99f8f67d7d2a942e4793/d2602/careerpanel.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instabots and Cybersecurity]]></title><description><![CDATA[In January we visited Identio for a meetup about Instagram bots and Cybersecurity. Heta Pärssinen is a fullstack developer working at…]]></description><link>https://turkupy.github.io/en/instabots-and-cybersecurity/</link><guid isPermaLink="false">https://turkupy.github.io/en/instabots-and-cybersecurity/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In January we visited Identio for a meetup about Instagram bots and Cybersecurity.&lt;/p&gt;
 &lt;p&gt;Heta Pärssinen is a fullstack developer working at Duunitori. Building bots for Instagram has been her occasional hobby and she wanted to share the technical secrets with us at this meetup.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -209,7 +499,139 @@ Production 7.6. 10-11&lt;/p&gt;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Machine learning and Mimosas!]]></title><description><![CDATA[Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office. Mila presented her Mimosa machine project, which…]]></description><link>https://turkupy.github.io/machine-learning-mimosas/</link><guid isPermaLink="false">https://turkupy.github.io/machine-learning-mimosas/</guid><pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instabots and Cybersecurity]]></title><description><![CDATA[In January we visited Identio for a meetup about Instagram bots and Cybersecurity. Heta Pärssinen is a fullstack developer working at…]]></description><link>https://turkupy.github.io/fi/instabots-and-cybersecurity/</link><guid isPermaLink="false">https://turkupy.github.io/fi/instabots-and-cybersecurity/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In January we visited Identio for a meetup about Instagram bots and Cybersecurity.&lt;/p&gt;
+&lt;p&gt;Heta Pärssinen is a fullstack developer working at Duunitori. Building bots for Instagram has been her occasional hobby and she wanted to share the technical secrets with us at this meetup.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/704dca3c0e1e7390763e7213ecbed157/d2602/heta.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGkaRRzw//EABsQAAICAwEAAAAAAAAAAAAAAAECAAMEERIT/9oACAEBAAEFAu1RjZ5qctREqBl+iDzP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BSf/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAbEAADAAIDAAAAAAAAAAAAAAAAARECITFBcf/aAAgBAQAGPwLFcp9laIlo8FiyQ//EABgQAQEBAQEAAAAAAAAAAAAAAAEhEQBR/9oACAEBAAE/IcFAvFuCbzNeI9oDSC9b3rnEYNAZe//aAAwDAQACAAMAAAAQCC//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8Q1BsL/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EAjlt//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExwVFhgXH/2gAIAQEAAT8QWxiUoVdfvWIQDp0Xz9mEwyNJR9YG4cQWnmN61gMYiwOOLesXhkHd+5//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Heta presenting about Instabots.&quot;
+        title=&quot;Heta presenting about Instabots.&quot;
+        src=&quot;/static/704dca3c0e1e7390763e7213ecbed157/1c72d/heta.jpg&quot;
+        srcset=&quot;/static/704dca3c0e1e7390763e7213ecbed157/a80bd/heta.jpg 148w,
+/static/704dca3c0e1e7390763e7213ecbed157/1c91a/heta.jpg 295w,
+/static/704dca3c0e1e7390763e7213ecbed157/1c72d/heta.jpg 590w,
+/static/704dca3c0e1e7390763e7213ecbed157/a8a14/heta.jpg 885w,
+/static/704dca3c0e1e7390763e7213ecbed157/fbd2c/heta.jpg 1180w,
+/static/704dca3c0e1e7390763e7213ecbed157/d2602/heta.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Pauliina Solanne is a software developer at HoxHunt. Cybersecurity is one of her interests, and she shared some interesting insights into social engineering and how our humanness can be used against us.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4c3dbb83863798ee331244fd994b492d/d2602/pauliina.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQb/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABerPuG854j//EABkQAAMBAQEAAAAAAAAAAAAAAAABAhEDEv/aAAgBAQABBQLZFcmSepR0W8KbP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAECESEQIjH/2gAIAQEABj8C2R2tVx4yMlhjbP/EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQXHx/9oACAEBAAE/IeVG+q7muhrVOYOCVTpBD8Iu0Bb5USlJWXk//9oADAMBAAIAAwAAABBw/wD/xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8QNL//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEx/9oACAECAQE/ECmkf//EAB4QAQEAAwABBQAAAAAAAAAAAAERACExYUFRcaHw/9oACAEBAAE/EF3QO4r4eeZJazaaa0BcUiAS9HE2e6C0B7b9frO2UI1/EyIpIlU7IfOf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Pauliina talking about cybersecurity.&quot;
+        title=&quot;Pauliina talking about cybersecurity.&quot;
+        src=&quot;/static/4c3dbb83863798ee331244fd994b492d/1c72d/pauliina.jpg&quot;
+        srcset=&quot;/static/4c3dbb83863798ee331244fd994b492d/a80bd/pauliina.jpg 148w,
+/static/4c3dbb83863798ee331244fd994b492d/1c91a/pauliina.jpg 295w,
+/static/4c3dbb83863798ee331244fd994b492d/1c72d/pauliina.jpg 590w,
+/static/4c3dbb83863798ee331244fd994b492d/a8a14/pauliina.jpg 885w,
+/static/4c3dbb83863798ee331244fd994b492d/fbd2c/pauliina.jpg 1180w,
+/static/4c3dbb83863798ee331244fd994b492d/d2602/pauliina.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instabots and Cybersecurity]]></title><description><![CDATA[In January we visited Identio for a meetup about Instagram bots and Cybersecurity. Heta Pärssinen is a fullstack developer working at…]]></description><link>https://turkupy.github.io/sv/instabots-and-cybersecurity/</link><guid isPermaLink="false">https://turkupy.github.io/sv/instabots-and-cybersecurity/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In January we visited Identio for a meetup about Instagram bots and Cybersecurity.&lt;/p&gt;
+&lt;p&gt;Heta Pärssinen is a fullstack developer working at Duunitori. Building bots for Instagram has been her occasional hobby and she wanted to share the technical secrets with us at this meetup.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/704dca3c0e1e7390763e7213ecbed157/d2602/heta.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGkaRRzw//EABsQAAICAwEAAAAAAAAAAAAAAAECAAMEERIT/9oACAEBAAEFAu1RjZ5qctREqBl+iDzP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BSf/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAbEAADAAIDAAAAAAAAAAAAAAAAARECITFBcf/aAAgBAQAGPwLFcp9laIlo8FiyQ//EABgQAQEBAQEAAAAAAAAAAAAAAAEhEQBR/9oACAEBAAE/IcFAvFuCbzNeI9oDSC9b3rnEYNAZe//aAAwDAQACAAMAAAAQCC//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8Q1BsL/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EAjlt//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExwVFhgXH/2gAIAQEAAT8QWxiUoVdfvWIQDp0Xz9mEwyNJR9YG4cQWnmN61gMYiwOOLesXhkHd+5//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Heta presenting about Instabots.&quot;
+        title=&quot;Heta presenting about Instabots.&quot;
+        src=&quot;/static/704dca3c0e1e7390763e7213ecbed157/1c72d/heta.jpg&quot;
+        srcset=&quot;/static/704dca3c0e1e7390763e7213ecbed157/a80bd/heta.jpg 148w,
+/static/704dca3c0e1e7390763e7213ecbed157/1c91a/heta.jpg 295w,
+/static/704dca3c0e1e7390763e7213ecbed157/1c72d/heta.jpg 590w,
+/static/704dca3c0e1e7390763e7213ecbed157/a8a14/heta.jpg 885w,
+/static/704dca3c0e1e7390763e7213ecbed157/fbd2c/heta.jpg 1180w,
+/static/704dca3c0e1e7390763e7213ecbed157/d2602/heta.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Pauliina Solanne is a software developer at HoxHunt. Cybersecurity is one of her interests, and she shared some interesting insights into social engineering and how our humanness can be used against us.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4c3dbb83863798ee331244fd994b492d/d2602/pauliina.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQb/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABerPuG854j//EABkQAAMBAQEAAAAAAAAAAAAAAAABAhEDEv/aAAgBAQABBQLZFcmSepR0W8KbP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAECESEQIjH/2gAIAQEABj8C2R2tVx4yMlhjbP/EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQXHx/9oACAEBAAE/IeVG+q7muhrVOYOCVTpBD8Iu0Bb5USlJWXk//9oADAMBAAIAAwAAABBw/wD/xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8QNL//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEx/9oACAECAQE/ECmkf//EAB4QAQEAAwABBQAAAAAAAAAAAAERACExYUFRcaHw/9oACAEBAAE/EF3QO4r4eeZJazaaa0BcUiAS9HE2e6C0B7b9frO2UI1/EyIpIlU7IfOf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Pauliina talking about cybersecurity.&quot;
+        title=&quot;Pauliina talking about cybersecurity.&quot;
+        src=&quot;/static/4c3dbb83863798ee331244fd994b492d/1c72d/pauliina.jpg&quot;
+        srcset=&quot;/static/4c3dbb83863798ee331244fd994b492d/a80bd/pauliina.jpg 148w,
+/static/4c3dbb83863798ee331244fd994b492d/1c91a/pauliina.jpg 295w,
+/static/4c3dbb83863798ee331244fd994b492d/1c72d/pauliina.jpg 590w,
+/static/4c3dbb83863798ee331244fd994b492d/a8a14/pauliina.jpg 885w,
+/static/4c3dbb83863798ee331244fd994b492d/fbd2c/pauliina.jpg 1180w,
+/static/4c3dbb83863798ee331244fd994b492d/d2602/pauliina.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Machine learning and Mimosas!]]></title><description><![CDATA[Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office. Mila presented her Mimosa machine project, which…]]></description><link>https://turkupy.github.io/en/machine-learning-mimosas/</link><guid isPermaLink="false">https://turkupy.github.io/en/machine-learning-mimosas/</guid><pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office.&lt;/p&gt;
 &lt;p&gt;Mila presented her Mimosa machine project, which used a z-wave remote control and python to mix some drinks.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -274,7 +696,267 @@ Production 7.6. 10-11&lt;/p&gt;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Turku.py goes Data Science!]]></title><description><![CDATA[Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna. Our…]]></description><link>https://turkupy.github.io/turkupy-goes-datascience/</link><guid isPermaLink="false">https://turkupy.github.io/turkupy-goes-datascience/</guid><pubDate>Wed, 23 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Machine learning and Mimosas!]]></title><description><![CDATA[Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office. Mila presented her Mimosa machine project, which…]]></description><link>https://turkupy.github.io/fi/machine-learning-mimosas/</link><guid isPermaLink="false">https://turkupy.github.io/fi/machine-learning-mimosas/</guid><pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office.&lt;/p&gt;
+&lt;p&gt;Mila presented her Mimosa machine project, which used a z-wave remote control and python to mix some drinks.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/d2602/mila.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHN4Em82ZBf/8QAGhABAAIDAQAAAAAAAAAAAAAAAgADAREjMf/aAAgBAQABBQIFmG4y1dHct+HeMz//xAAWEQEBAQAAAAAAAAAAAAAAAAABABP/2gAIAQMBAT8BQsr/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRE2H/2gAIAQIBAT8BTlRtw//EAB0QAAICAQUAAAAAAAAAAAAAAAARASECMTJBcZH/2gAIAQEABj8CUtmpl2bYUlxTOPD/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAxIVH/2gAIAQEAAT8hZaIRx/Cr94GqxysWqsFuAnQYXo9b/9oADAMBAAIAAwAAABBn/wD/xAAYEQACAwAAAAAAAAAAAAAAAAAAARExUf/aAAgBAwEBPxCTYsM//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARQf/aAAgBAgEBPxDkTlxV/8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFBYXHR8P/aAAgBAQABPxCbp0hKvI9n3ERjYp4BfeshFqCHJcQVIFUFgfjHBtIE2uuJjQEETpn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Mila and the mimosa machine.&quot;
+        title=&quot;Mila and the mimosa machine.&quot;
+        src=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/1c72d/mila.jpg&quot;
+        srcset=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/a80bd/mila.jpg 148w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/1c91a/mila.jpg 295w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/1c72d/mila.jpg 590w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/a8a14/mila.jpg 885w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/fbd2c/mila.jpg 1180w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/d2602/mila.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Mathematician Eeva Rauramo held a presentation about how artificial intelligence can be used in accounting and what neural networks actually are under the hood.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9c7160facc2769aa2844719904cbff6e/72e01/eeva.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABqrYtOnUlBX//xAAaEAEAAwADAAAAAAAAAAAAAAACAAEDERIT/9oACAEBAAEFAvEx5Eyj2l6KppTVFPj/xAAWEQEBAQAAAAAAAAAAAAAAAAABABL/2gAIAQMBAT8BBtX/xAAWEQEBAQAAAAAAAAAAAAAAAAABABL/2gAIAQIBAT8BUst//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEhAhExMkH/2gAIAQEABj8C6ZZdMms2IR//xAAbEAEAAQUBAAAAAAAAAAAAAAABABEhMUGBYf/aAAgBAQABPyGrodjpS5XLBGHDguPkQLykFpT/2gAMAwEAAgADAAAAEF/v/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARUf/aAAgBAwEBPxAbrA5f/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAgEBPxBZO3b/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMbFBUZHR/9oACAEBAAE/EHrG/dzFZc4VVfsvh0nh2NgAwDr8nKKHkWejipmwTepP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Eeva presenting about neural networks.&quot;
+        title=&quot;Eeva presenting about neural networks.&quot;
+        src=&quot;/static/9c7160facc2769aa2844719904cbff6e/1c72d/eeva.jpg&quot;
+        srcset=&quot;/static/9c7160facc2769aa2844719904cbff6e/a80bd/eeva.jpg 148w,
+/static/9c7160facc2769aa2844719904cbff6e/1c91a/eeva.jpg 295w,
+/static/9c7160facc2769aa2844719904cbff6e/1c72d/eeva.jpg 590w,
+/static/9c7160facc2769aa2844719904cbff6e/a8a14/eeva.jpg 885w,
+/static/9c7160facc2769aa2844719904cbff6e/72e01/eeva.jpg 1024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Machine learning and Mimosas!]]></title><description><![CDATA[Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office. Mila presented her Mimosa machine project, which…]]></description><link>https://turkupy.github.io/sv/machine-learning-mimosas/</link><guid isPermaLink="false">https://turkupy.github.io/sv/machine-learning-mimosas/</guid><pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office.&lt;/p&gt;
+&lt;p&gt;Mila presented her Mimosa machine project, which used a z-wave remote control and python to mix some drinks.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/d2602/mila.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHN4Em82ZBf/8QAGhABAAIDAQAAAAAAAAAAAAAAAgADAREjMf/aAAgBAQABBQIFmG4y1dHct+HeMz//xAAWEQEBAQAAAAAAAAAAAAAAAAABABP/2gAIAQMBAT8BQsr/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRE2H/2gAIAQIBAT8BTlRtw//EAB0QAAICAQUAAAAAAAAAAAAAAAARASECMTJBcZH/2gAIAQEABj8CUtmpl2bYUlxTOPD/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAxIVH/2gAIAQEAAT8hZaIRx/Cr94GqxysWqsFuAnQYXo9b/9oADAMBAAIAAwAAABBn/wD/xAAYEQACAwAAAAAAAAAAAAAAAAAAARExUf/aAAgBAwEBPxCTYsM//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARQf/aAAgBAgEBPxDkTlxV/8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFBYXHR8P/aAAgBAQABPxCbp0hKvI9n3ERjYp4BfeshFqCHJcQVIFUFgfjHBtIE2uuJjQEETpn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Mila and the mimosa machine.&quot;
+        title=&quot;Mila and the mimosa machine.&quot;
+        src=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/1c72d/mila.jpg&quot;
+        srcset=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/a80bd/mila.jpg 148w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/1c91a/mila.jpg 295w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/1c72d/mila.jpg 590w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/a8a14/mila.jpg 885w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/fbd2c/mila.jpg 1180w,
+/static/ef14c48bc08c220a7eb5301f13ccbbdf/d2602/mila.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Mathematician Eeva Rauramo held a presentation about how artificial intelligence can be used in accounting and what neural networks actually are under the hood.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9c7160facc2769aa2844719904cbff6e/72e01/eeva.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABqrYtOnUlBX//xAAaEAEAAwADAAAAAAAAAAAAAAACAAEDERIT/9oACAEBAAEFAvEx5Eyj2l6KppTVFPj/xAAWEQEBAQAAAAAAAAAAAAAAAAABABL/2gAIAQMBAT8BBtX/xAAWEQEBAQAAAAAAAAAAAAAAAAABABL/2gAIAQIBAT8BUst//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEhAhExMkH/2gAIAQEABj8C6ZZdMms2IR//xAAbEAEAAQUBAAAAAAAAAAAAAAABABEhMUGBYf/aAAgBAQABPyGrodjpS5XLBGHDguPkQLykFpT/2gAMAwEAAgADAAAAEF/v/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARUf/aAAgBAwEBPxAbrA5f/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAgEBPxBZO3b/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMbFBUZHR/9oACAEBAAE/EHrG/dzFZc4VVfsvh0nh2NgAwDr8nKKHkWejipmwTepP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Eeva presenting about neural networks.&quot;
+        title=&quot;Eeva presenting about neural networks.&quot;
+        src=&quot;/static/9c7160facc2769aa2844719904cbff6e/1c72d/eeva.jpg&quot;
+        srcset=&quot;/static/9c7160facc2769aa2844719904cbff6e/a80bd/eeva.jpg 148w,
+/static/9c7160facc2769aa2844719904cbff6e/1c91a/eeva.jpg 295w,
+/static/9c7160facc2769aa2844719904cbff6e/1c72d/eeva.jpg 590w,
+/static/9c7160facc2769aa2844719904cbff6e/a8a14/eeva.jpg 885w,
+/static/9c7160facc2769aa2844719904cbff6e/72e01/eeva.jpg 1024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Turku.py goes Data Science!]]></title><description><![CDATA[Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna. Our…]]></description><link>https://turkupy.github.io/en/turkupy-goes-datascience/</link><guid isPermaLink="false">https://turkupy.github.io/en/turkupy-goes-datascience/</guid><pubDate>Wed, 23 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna.&lt;/p&gt;
+&lt;p&gt;Our speakers Anniina and Jenna held presentations about clustering and natural language processing in analyzing feelings in Twitter content.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5098647ef93b454207d2d510d3b1c169/d2602/jenna.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAcNk9OWuIJ//xAAZEAEBAQEBAQAAAAAAAAAAAAACAQADESH/2gAIAQEAAQUCH1+p6c9FcetNBnQ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAwADAQAAAAAAAAAAAAAAAAECAxExQf/aAAgBAQAGPwJo14mdNPpauUxVOSlvp//EABoQAAMBAQEBAAAAAAAAAAAAAAABITERQYH/2gAIAQEAAT8hSiuJQ1ORRERkNL4TaHvhoXSKU//aAAwDAQACAAMAAAAQiM//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCn/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EImP/8QAHhABAAEEAgMAAAAAAAAAAAAAAREAITFRQXGB0fD/2gAIAQEAAT8QeJAK3Me6Ayl0wLm2rHLqpOEJRiHjmon2i267M8URIMDDe32K/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Jenna talking about analyzing twitter content.&quot;
+        title=&quot;Jenna talking about analyzing twitter content.&quot;
+        src=&quot;/static/5098647ef93b454207d2d510d3b1c169/1c72d/jenna.jpg&quot;
+        srcset=&quot;/static/5098647ef93b454207d2d510d3b1c169/a80bd/jenna.jpg 148w,
+/static/5098647ef93b454207d2d510d3b1c169/1c91a/jenna.jpg 295w,
+/static/5098647ef93b454207d2d510d3b1c169/1c72d/jenna.jpg 590w,
+/static/5098647ef93b454207d2d510d3b1c169/a8a14/jenna.jpg 885w,
+/static/5098647ef93b454207d2d510d3b1c169/fbd2c/jenna.jpg 1180w,
+/static/5098647ef93b454207d2d510d3b1c169/d2602/jenna.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/d2602/anniina.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAUzrMzdAYH//xAAaEAACAgMAAAAAAAAAAAAAAAABAgMRAAQi/9oACAEBAAEFAobbBZKxmulMTgM+uzH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFX/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BR//EABwQAAICAgMAAAAAAAAAAAAAAAABERICAxAhYf/aAAgBAQAGPwJjXHQrZRbwlbGj/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERIWExUZH/2gAIAQEAAT8hROg3UXBqqY/FvKRch8qq9I12mf/aAAwDAQACAAMAAAAQ1B//xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAwEBPxCD/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qg//EABwQAQEBAQACAwAAAAAAAAAAAAERACExQVFhof/aAAgBAQABPxBctJlMfOeu4WoXR99lHIkO/PnBExUlbJ0fl1IuHID9zf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Anniina presenting about clustering.&quot;
+        title=&quot;Anniina presenting about clustering.&quot;
+        src=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/1c72d/anniina.jpg&quot;
+        srcset=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/a80bd/anniina.jpg 148w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/1c91a/anniina.jpg 295w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/1c72d/anniina.jpg 590w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/a8a14/anniina.jpg 885w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/fbd2c/anniina.jpg 1180w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/d2602/anniina.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Turku.py goes Data Science!]]></title><description><![CDATA[Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna. Our…]]></description><link>https://turkupy.github.io/fi/turkupy-goes-datascience/</link><guid isPermaLink="false">https://turkupy.github.io/fi/turkupy-goes-datascience/</guid><pubDate>Wed, 23 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna.&lt;/p&gt;
+&lt;p&gt;Our speakers Anniina and Jenna held presentations about clustering and natural language processing in analyzing feelings in Twitter content.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5098647ef93b454207d2d510d3b1c169/d2602/jenna.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAcNk9OWuIJ//xAAZEAEBAQEBAQAAAAAAAAAAAAACAQADESH/2gAIAQEAAQUCH1+p6c9FcetNBnQ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAwADAQAAAAAAAAAAAAAAAAECAxExQf/aAAgBAQAGPwJo14mdNPpauUxVOSlvp//EABoQAAMBAQEBAAAAAAAAAAAAAAABITERQYH/2gAIAQEAAT8hSiuJQ1ORRERkNL4TaHvhoXSKU//aAAwDAQACAAMAAAAQiM//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCn/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EImP/8QAHhABAAEEAgMAAAAAAAAAAAAAAREAITFRQXGB0fD/2gAIAQEAAT8QeJAK3Me6Ayl0wLm2rHLqpOEJRiHjmon2i267M8URIMDDe32K/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Jenna talking about analyzing twitter content.&quot;
+        title=&quot;Jenna talking about analyzing twitter content.&quot;
+        src=&quot;/static/5098647ef93b454207d2d510d3b1c169/1c72d/jenna.jpg&quot;
+        srcset=&quot;/static/5098647ef93b454207d2d510d3b1c169/a80bd/jenna.jpg 148w,
+/static/5098647ef93b454207d2d510d3b1c169/1c91a/jenna.jpg 295w,
+/static/5098647ef93b454207d2d510d3b1c169/1c72d/jenna.jpg 590w,
+/static/5098647ef93b454207d2d510d3b1c169/a8a14/jenna.jpg 885w,
+/static/5098647ef93b454207d2d510d3b1c169/fbd2c/jenna.jpg 1180w,
+/static/5098647ef93b454207d2d510d3b1c169/d2602/jenna.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/d2602/anniina.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAUzrMzdAYH//xAAaEAACAgMAAAAAAAAAAAAAAAABAgMRAAQi/9oACAEBAAEFAobbBZKxmulMTgM+uzH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFX/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BR//EABwQAAICAgMAAAAAAAAAAAAAAAABERICAxAhYf/aAAgBAQAGPwJjXHQrZRbwlbGj/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERIWExUZH/2gAIAQEAAT8hROg3UXBqqY/FvKRch8qq9I12mf/aAAwDAQACAAMAAAAQ1B//xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAwEBPxCD/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qg//EABwQAQEBAQACAwAAAAAAAAAAAAERACExQVFhof/aAAgBAQABPxBctJlMfOeu4WoXR99lHIkO/PnBExUlbJ0fl1IuHID9zf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Anniina presenting about clustering.&quot;
+        title=&quot;Anniina presenting about clustering.&quot;
+        src=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/1c72d/anniina.jpg&quot;
+        srcset=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/a80bd/anniina.jpg 148w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/1c91a/anniina.jpg 295w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/1c72d/anniina.jpg 590w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/a8a14/anniina.jpg 885w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/fbd2c/anniina.jpg 1180w,
+/static/1fe6e945a549c728ad74ab6e65e3603b/d2602/anniina.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Turku.py goes Data Science!]]></title><description><![CDATA[Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna. Our…]]></description><link>https://turkupy.github.io/sv/turkupy-goes-datascience/</link><guid isPermaLink="false">https://turkupy.github.io/sv/turkupy-goes-datascience/</guid><pubDate>Wed, 23 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna.&lt;/p&gt;
 &lt;p&gt;Our speakers Anniina and Jenna held presentations about clustering and natural language processing in analyzing feelings in Twitter content.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
