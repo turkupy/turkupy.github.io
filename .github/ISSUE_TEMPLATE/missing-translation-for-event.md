@@ -10,6 +10,3 @@ assignees: ''
 **What event the translation is missing for:**
 Please provide a link to the english event.
 
-**Which languages are missing**:
-[ ] Finnish
-[ ] Swedish
