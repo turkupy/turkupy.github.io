@@ -30,6 +30,9 @@ Some notes:
 
 At least title, date, type and lang are required.
 
+Note, that first and foremost the event should be created in English. If you want, you can add Finnish and Swedish as well, but if you don't, please add an issue that these translations are missing. 
+
+
 ## About language
 
 We use [alex.js](https://alexjs.com/) for linting insensitive language. The script is done, when committing, and if it finds something to point out, you have two options: 
@@ -66,3 +69,4 @@ so with the "pop"-example the ignore would be:
 ```
 
 But where you can find the rulename? It is actually displayed in the command line message. In the example command line prompt above, the rulename is `host-hostess`, and it is always added after suggestions. (`retext-equality` points to the set of rules alex is using internally)
+

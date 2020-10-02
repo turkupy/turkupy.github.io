@@ -6,6 +6,7 @@ speakers:
   - Jenna
 host: Valohai
 type: "event"
+lang: en
 ---
 
 Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna.
