@@ -71,7 +71,8 @@
   },
   "lint-staged": {
     "*.{js,jsx}": [
-      "eslint", "alex"
+      "eslint",
+      "alex"
     ]
   }
 }
