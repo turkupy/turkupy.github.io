@@ -38,6 +38,7 @@
     "typography-theme-grand-view": "^0.16.19"
   },
   "devDependencies": {
+    "alex": "^9.0.1",
     "babel-eslint": "^10.1.0",
     "eslint-loader": "^4.0.2",
     "eslint-plugin-import": "^2.20.2",
@@ -60,7 +61,8 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "deploy": "gatsby build && gh-pages -d public -b master",
-    "lint": "eslint './src/**/*.{js,jsx}'"
+    "lint": "eslint './src/**/*.{js,jsx}'",
+    "alex": "alex"
   },
   "husky": {
     "hooks": {
@@ -69,7 +71,7 @@
   },
   "lint-staged": {
     "*.{js,jsx}": [
-      "eslint"
+      "eslint", "alex"
     ]
   }
 }
