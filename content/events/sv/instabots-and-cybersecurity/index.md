@@ -1,5 +1,5 @@
 ---
-title: "Instabots and Cybersecurity"
+title: "Instabots och Cybersecurity"
 date: "2020-01-22"
 speakers:
   - Pauliina Solanne
@@ -9,12 +9,12 @@ type: "event"
 lang: sv
 ---
 
-In January we visited Identio for a meetup about Instagram bots and Cybersecurity.
+I januari besökte vi Identio för en träff om Instagram-bots och Cybersecurity.
 
-Heta Pärssinen is a fullstack developer working at Duunitori. Building bots for Instagram has been her occasional hobby and she wanted to share the technical secrets with us at this meetup.
+Heta Pärssinen är en fullstack developer som jobbar på Duunitori. Att bygga Instabots för Instagram har varit ett sidoprojekt för henne och hon ville dela med sig några av de tekniska hemligheterna bakom det på den här träffen.
 
-![Heta presenting about Instabots.](heta.jpg)
+![Heta håller en presentation om Instabots.](heta.jpg)
 
-Pauliina Solanne is a software developer at HoxHunt. Cybersecurity is one of her interests, and she shared some interesting insights into social engineering and how our humanness can be used against us.
+Pauliina Solanne är software developer på HoxHunt. Cybersecurity är ett av hennes intressen, och hon delade med sig några intressanta insikter inom social engineering och hur vår mänsklighet kan användas emot us.
 
-![Pauliina talking about cybersecurity.](pauliina.jpg)
+![Pauliina talar om cybersecurity.](pauliina.jpg)
