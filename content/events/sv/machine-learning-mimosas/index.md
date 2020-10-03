@@ -1,5 +1,5 @@
 ---
-title: "Machine learning and Mimosas!"
+title: "Maskininlärning och Mimosas!"
 date: "2019-12-11"
 speakers:
   - Mila
@@ -9,13 +9,13 @@ type: "event"
 lang: sv
 ---
 
-Our December meetup with a "little xmas" theme was hosted by Anders at their Turku office.
+Vår December träff med ett "litet jul"-tema hölls av Anders och hans kontor i Åbo.
 
-Mila presented her Mimosa machine project, which used a z-wave remote control and python to mix some drinks.
+Mila presenterade hennes Mimosa maskinprojekt, som använder sig av en z-wave fjärrkontroll och python för att mixa drinkar.
 
-![Mila and the mimosa machine.](mila.jpg)
+![Mila och mimosamaskinen.](mila.jpg)
 
-Mathematician Eeva Rauramo held a presentation about how artificial intelligence can be used in accounting and what neural networks actually are under the hood.
+Matematikern Eeva Rauramo höll en presenation om hur artificell intelligens kan användas inom bofköring och hur neurala nätwerk faktiskt fungerar under ytan.
 
-![Eeva presenting about neural networks.](eeva.jpg)
+![Eeva pratar om neurala nätverk.](eeva.jpg)
 
