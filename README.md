@@ -34,3 +34,8 @@ Deploy is handled by GH-action.
 - `styled-components` for, well, styled components and reusability of styles
 - `react-helmet` for site metadata (for search engine config)
 - `gh-pages` for deploy
+
+## Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
