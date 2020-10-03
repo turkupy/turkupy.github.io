@@ -23,5 +23,10 @@
     "en": "Date",
     "fi": "",
     "sv": "Datum"
+  },
+  "frontpage.hosted-by": {
+    "en": "Host by",
+    "fi": "",
+    "sv": "Arrangör"
   }
 }

@@ -45,6 +45,7 @@ const IndexPage = ({ events, langCode }) => {
               date={event.node.frontmatter.date}
               host={event.node.frontmatter.host}
               slug={event.node.fields.slug}
+              lang={langCode}
             />
           </li>
         ))}
