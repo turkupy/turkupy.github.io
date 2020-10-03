@@ -5,7 +5,7 @@ type: "event"
 lang: sv
 ---
 
-![Friday afternoon in Helsinki](gals.jpg)
+![Fredag eftermiddag i Helsingfors](gals.jpg)
 Vår Robotikgrupp träffades på nytt en solig höst dag, denna gången i Helsingfors.
 Vi spenderade eftermiddagen med att lista ut hur vi kunde få vår Lego-robot att prata och göra olika ljud. Vi prövade olika sätt att få roboten att skapa olika ljudtoner, läten, uttala låttexter och citat från Monty Python!
 
