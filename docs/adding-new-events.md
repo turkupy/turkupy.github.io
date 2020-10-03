@@ -37,6 +37,7 @@ Note, that first and foremost the event should be created in English. If you wan
 
 The title of the issue should be `[Translations] title-of-the-event - langcode` so for example `[Translations] Robotics sunday - sv`. In the description of the issue, please provide a link to the index.md file under that language folder from which you are creating the ticket.
 
+
 ## About language
 
 We use [alex.js](https://alexjs.com/) for linting insensitive language. The script is done, when committing, and if it finds something to point out, you have two options: 

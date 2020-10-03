@@ -16,8 +16,8 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
 
 - Uses yarn, beware.
 - Accessibility can be checked using the [Wave web accessibility evaluation browser extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh). Please let us know or make a ticket if you find anything that doesn't fill accessibility requirements!
+<!--alex ignore-->
 - Only use the theme colors (exported in `styles.js`).
-
 
 ## Packages we use
 
