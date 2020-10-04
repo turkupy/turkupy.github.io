@@ -37,5 +37,36 @@ Deploy is handled by GH-action.
 
 ## Contributors
 
-<!-- readme: contributors -start -->
+<!-- readme: contributors -start --> 
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/eevajonnapanula">
+            <img src="https://avatars0.githubusercontent.com/u/28345294?v=4" width="100;" alt="eevajonnapanula"/>
+            <br />
+            <sub><b>Eevis Panula</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/magdapoppins">
+            <img src="https://avatars2.githubusercontent.com/u/26743924?v=4" width="100;" alt="magdapoppins"/>
+            <br />
+            <sub><b>Magda Stenius</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/vivek32ta">
+            <img src="https://avatars1.githubusercontent.com/u/32357540?v=4" width="100;" alt="vivek32ta"/>
+            <br />
+            <sub><b>Vivek T A</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lgrigoryeva1">
+            <img src="https://avatars0.githubusercontent.com/u/22194440?v=4" width="100;" alt="lgrigoryeva1"/>
+            <br />
+            <sub><b>Mila Grigoryeva</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
