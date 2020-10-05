@@ -1,5 +1,5 @@
 ---
-title: "Turku.py utforskar Datavetenskap!"
+title: "Turku.py goes Data Science!"
 date: "2019-10-23"
 speakers:
   - Anniina
@@ -9,10 +9,10 @@ type: "event"
 lang: sv
 ---
 
-Vår Oktober 2019 träff var den första Turku.py träffen. Den hölls av Valohai. Vi hade en demonstration av hur Valohai jobbar av Joanna.
+Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna.
 
-Våra talare Anniina och Jenna höll presentationer om "clustering" och "natural language processing" och hur man kan analysera känslor i Twitter flödet.
+Our speakers Anniina and Jenna held presentations about clustering and natural language processing in analyzing feelings in Twitter content.
 
-![Jenna pratar om att analysera twitterinnehåll.](jenna.jpg)
+![Jenna talking about analyzing twitter content.](jenna.jpg)
 
-![Anniina presenterar "Clustering".](anniina.jpg)
+![Anniina presenting about clustering.](anniina.jpg)
