@@ -26,6 +26,6 @@ Collaboration 31.5. 10-11
 Production 7.6. 10-11
 
 ## Sammanfattning
-Mellan april och juni, lyckades vi ha studeringscirklar för varje vakpitel!
+Mellan april och juni, lyckades vi ha studeringscirklar för varje kapitel!
 
 Anteckningar om mötena finns i [GitHub-repot](https://github.com/turkupy/effective-python-studygroup). Lägg gärna till egna anteckning igenom en pull request!

@@ -12,7 +12,7 @@
   "frontpage.infotext": {
     "en": "Turku.py is a programming community for women and non-binaries in Turku, Finland. We organize meetups, workshops and afterworks that aim to support the local tech culture, share skills and knowlegde and inspire people from minority groups in the fields of programming, devops and data science.",
     "fi": "",
-    "sv": "Turku.py är ett programmerings community för kvinnor och icke-binära i Åba, Finland. Vi anordnar träffar, workshops och afterworks med målet att stödja den lokala tech-kulturen, dela kunskap och kompetenser samt inspirera människor från minoritetsgrupper inom områdena programmering, devops och datavetenskap."
+    "sv": "Turku.py är ett programmerings community för kvinnor och icke-binära i Åbo, Finland. Vi anordnar träffar, workshops och afterworks med målet att stödja den lokala tech-kulturen, dela kunskap och kompetenser samt inspirera människor från minoritetsgrupper inom områdena programmering, devops och datavetenskap."
   },
   "frontpage.past-events": {
     "en": "Past events",
@@ -25,8 +25,8 @@
     "sv": "Datum"
   },
   "frontpage.hosted-by": {
-    "en": "Host by",
+    "en": "Hosted by",
     "fi": "",
-    "sv": "Arrangör"
+    "sv": "Arrangerat av"
   }
 }
