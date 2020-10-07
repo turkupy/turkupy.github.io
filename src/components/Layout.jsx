@@ -5,6 +5,7 @@ import styled from "styled-components"
 import logo from "../../content/assets/logo.png"
 import { createGlobalStyle } from "styled-components"
 import { colors } from "../utils/styles"
+import Footer from "./Footer"
 
 const GlobalStyles = createGlobalStyle`
   body { 
@@ -19,6 +20,14 @@ const GlobalStyles = createGlobalStyle`
  h2,h3 {
     color: ${colors.darkGrey};
     font-size: calc(1.25rem + 0.5vw);
+  }
+
+  a {
+    color: ${colors.darkPink}
+  }
+
+  a:hover {
+    color: ${colors.darkGrey}
   }
 `
 
@@ -38,10 +47,6 @@ const StyledLayout = styled.div`
   }
 `
 
-const Footer = styled.footer`
-  margin: 5rem 0 5rem 0;
-`
-
 const Layout = ({ children }) => {
   return (
     <>
@@ -56,7 +61,7 @@ const Layout = ({ children }) => {
           </Link>
         </header>
         <main>{children}</main>
-        <Footer></Footer>
+        <Footer />
       </StyledLayout>
     </>
   )
