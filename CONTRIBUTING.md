@@ -75,3 +75,5 @@ It then opens an interface for creating a pull request, and you can make the PR.
 - Describe, what you have done and what the PR would add
 
 Then you can click the "Create pull request"-button. We will review it as soon as we have time!
+
+A note: We kindly request, that you create a one PR per issue, as it is easier to track and review, when there is only one issue per PR.
