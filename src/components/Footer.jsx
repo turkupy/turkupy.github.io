@@ -11,6 +11,7 @@ const StyledFooter = styled.footer`
 const Footer = () => (
   <StyledFooter>
     <a href="https://github.com/turkupy/turkupy.github.io">Github</a>
+    <a href="https://meetabit.com/communities/turku-py">Meetabit</a>
     <a href="https://twitter.com/turku_py">Twitter</a>
   </StyledFooter>
 )
