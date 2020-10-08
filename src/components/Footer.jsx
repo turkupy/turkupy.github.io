@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import { colors } from "../utils/styles"
 import styled from "styled-components"
 
@@ -51,9 +50,5 @@ const Footer = () => (
     </div>
   </StyledFooter>
 )
-
-Footer.propTypes = {
-  path: PropTypes.string,
-}
 
 export default Footer
