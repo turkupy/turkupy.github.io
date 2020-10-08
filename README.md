@@ -47,6 +47,13 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Augs0">
+            <img src="https://avatars0.githubusercontent.com/u/34795090?v=4" width="100;" alt="Augs0"/>
+            <br />
+            <sub><b>August</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/vivek32ta">
             <img src="https://avatars1.githubusercontent.com/u/32357540?v=4" width="100;" alt="vivek32ta"/>
             <br />
