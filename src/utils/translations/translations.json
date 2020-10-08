@@ -26,7 +26,11 @@
   },
   "footer.request-feature": {
     "en": "Request feature",
-    "fi": "",
+    "fi": ""
+  },
+  "frontpage.upcoming-events": {
+    "en": "Upcoming events",
+    "fi": "Tulevat tapahtumat",
     "sv": ""
   }
 }
