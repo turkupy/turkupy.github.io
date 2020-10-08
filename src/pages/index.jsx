@@ -34,7 +34,13 @@ export const pageQuery = graphql`
     }
     events: allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { type: { eq: "event" }, lang: { eq: "en" } } }
+      filter: {
+        frontmatter: {
+          type: { eq: "event" }
+          lang: { eq: "en" }
+          date: { gte: "now()" }
+        }
+      }
     ) {
       edges {
         node {
