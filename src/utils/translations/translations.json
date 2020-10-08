@@ -23,5 +23,10 @@
     "en": "Upcoming events",
     "fi": "Tulevat tapahtumat",
     "sv": ""
+  },
+  "frontpage.no-upcoming-events": {
+    "en": "No upcoming events",
+    "fi": "Ei tulevia tapahtumia",
+    "sv": ""
   }
 }
