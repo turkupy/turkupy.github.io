@@ -5,14 +5,14 @@ import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import IndexPage from "../components/IndexPage"
 
-const Index = ({ path, data }) => {
+const Index = ({ data }) => {
   const langCode = "en"
   const siteTitle = data.site.siteMetadata.title
   const events = data.events.edges
   // const organizers = data.organizers.edges
 
   return (
-    <Layout title={siteTitle} path={path}>
+    <Layout title={siteTitle}>
       <SEO title={siteTitle} />
       <IndexPage events={events} langCode={langCode} />
     </Layout>
@@ -20,7 +20,6 @@ const Index = ({ path, data }) => {
 }
 
 Index.propTypes = {
-  path: PropTypes.string,
   data: PropTypes.any,
 }
 

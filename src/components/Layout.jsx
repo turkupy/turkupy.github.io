@@ -47,7 +47,7 @@ const StyledLayout = styled.div`
   }
 `
 
-const Layout = ({ path, children }) => {
+const Layout = ({ children }) => {
   return (
     <>
       <GlobalStyles />
@@ -61,14 +61,13 @@ const Layout = ({ path, children }) => {
           </Link>
         </header>
         <main>{children}</main>
-        <Footer path={path} />
+        <Footer />
       </StyledLayout>
     </>
   )
 }
 
 Layout.propTypes = {
-  path: PropTypes.string,
   children: PropTypes.oneOfType([
     PropTypes.element,
     PropTypes.arrayOf(PropTypes.element),

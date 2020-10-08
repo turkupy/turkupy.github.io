@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import { colors } from "../utils/styles"
 import styled from "styled-components"
@@ -16,7 +15,7 @@ const StyledFooter = styled.footer`
   }
 `
 
-const Footer = ({ path }) => (
+const Footer = () => (
   <StyledFooter>
     <div
       style={{
@@ -30,15 +29,17 @@ const Footer = ({ path }) => (
     </div>
     <div
       style={{
-        display: path === "/feature/" ? "none" : "flex",
+        display: "flex",
         flexDirection: "row",
         justifyContent: "center",
         marginTop: "3rem",
       }}
     >
-      <Link
+      <a
         className="button"
-        to="/feature"
+        href="https://github.com/turkupy/turkupy.github.io/issues/new?assignees=&labels=&template=feature_request.md&title="
+        target="_blank"
+        rel="noopener noreferrer"
         style={{
           padding: "0.25rem 1rem",
           borderRadius: "2rem",
@@ -46,7 +47,7 @@ const Footer = ({ path }) => (
         }}
       >
         Request a feature
-      </Link>
+      </a>
     </div>
   </StyledFooter>
 )
