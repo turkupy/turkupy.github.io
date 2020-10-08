@@ -13,6 +13,7 @@ const StyledFooter = styled.footer`
 const Footer = ({ langCode }) => (
   <StyledFooter>
     <a href="https://github.com/turkupy/turkupy.github.io">Github</a>
+    <a href="https://meetabit.com/communities/turku-py">Meetabit</a>
     <a href="https://twitter.com/turku_py">Twitter</a>
     <a href="https://github.com/turkupy/turkupy.github.io/issues/new?assignees=&labels=&template=feature_request.md&title=">
       {getTranslation(langCode, "footer.request-feature")}
