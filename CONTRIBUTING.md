@@ -54,6 +54,10 @@ After you have completed the steps in Github's guide, you should have the reposi
 
 It's a good convention to name the branch descriptively, and with a prefix, which is the type of thing you are doing. So, for example, for adding a Finnish translation of an event named "Robotics day" the branch could be something like `translation/finnish-translation-for-robotics-day`. Another example would be a feature adding contact-info and the branch could be `feature/add-contact-info`. If you have any questions or get stuck with naming (It can be the hardest part of programming!), please write a comment into the issue and we will help you.
 
+### Read the documentation
+
+There are relevant (depending on what you are going to do) docs in [./docs](./docs)-folder. Also, please read anyway [about technologies and practices](./docs/technologies-and-practices.md)
+
 ### Implement the changes
 
 So, this part is about coding (or writing, if the issue is about translating). If you get stuck, please add a message to the issue, so we can help you!
