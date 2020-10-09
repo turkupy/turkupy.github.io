@@ -47,6 +47,13 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/adhammo">
+            <img src="https://avatars2.githubusercontent.com/u/56611873?v=4" width="100;" alt="adhammo"/>
+            <br />
+            <sub><b>Adham Mohamed</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Augs0">
             <img src="https://avatars0.githubusercontent.com/u/34795090?v=4" width="100;" alt="Augs0"/>
             <br />
