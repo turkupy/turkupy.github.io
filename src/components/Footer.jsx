@@ -1,54 +1,27 @@
 import React from "react"
-import { colors } from "../utils/styles"
+import PropTypes from "prop-types"
 import styled from "styled-components"
+import { getTranslation } from "../utils/translations/helpers"
 
 const StyledFooter = styled.footer`
   margin: 5rem 0 5rem 0;
-
-  a.button {
-    background: ${colors.darkPink};
-  }
-
-  a.button:hover {
-    background: ${colors.lightPink};
-  }
+  display: flex;
+  flex-direction row;
+  justify-content: space-evenly;
 `
 
-const Footer = () => (
+const Footer = ({ langCode }) => (
   <StyledFooter>
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "row",
-        justifyContent: "space-evenly",
-      }}
-    >
-      <a href="https://github.com/turkupy/turkupy.github.io">Github</a>
-      <a href="https://twitter.com/turku_py">Twitter</a>
-    </div>
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "row",
-        justifyContent: "center",
-        marginTop: "3rem",
-      }}
-    >
-      <a
-        className="button"
-        href="https://github.com/turkupy/turkupy.github.io/issues/new?assignees=&labels=&template=feature_request.md&title="
-        target="_blank"
-        rel="noopener noreferrer"
-        style={{
-          padding: "0.25rem 1rem",
-          borderRadius: "2rem",
-          color: colors.white,
-        }}
-      >
-        Request a feature
-      </a>
-    </div>
+    <a href="https://github.com/turkupy/turkupy.github.io">Github</a>
+    <a href="https://twitter.com/turku_py">Twitter</a>
+    <a href="https://github.com/turkupy/turkupy.github.io/issues/new?assignees=&labels=&template=feature_request.md&title=">
+      {getTranslation(langCode, "footer.request-feature")}
+    </a>
   </StyledFooter>
 )
+
+Footer.propTypes = {
+  langCode: PropTypes.string,
+}
 
 export default Footer
