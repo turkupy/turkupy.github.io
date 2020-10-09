@@ -65,7 +65,6 @@ const StyledLayout = styled.div`
 `
 
 const Layout = ({ children, langCode }) => {
-
   return (
     <>
       <GlobalStyles />
@@ -82,13 +81,14 @@ const Layout = ({ children, langCode }) => {
           </Link>
         </header>
         <main id="main">{children}</main>
-        <Footer />
+        <Footer langCode={langCode} />
       </StyledLayout>
     </>
   )
 }
 
 Layout.propTypes = {
+  langCode: PropTypes.string,
   children: PropTypes.oneOfType([
     PropTypes.element,
     PropTypes.arrayOf(PropTypes.element),
