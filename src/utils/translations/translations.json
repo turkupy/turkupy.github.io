@@ -1,4 +1,9 @@
 {
+  "header.skiplink": {
+    "en": "Skip to main content",
+    "fi": "",
+    "sv": ""
+  },
   "frontpage.title": {
     "en": "Turku.py",
     "fi": "Turku.py",
@@ -21,11 +26,6 @@
   },
   "footer.request-feature": {
     "en": "Request feature",
-    "fi": "",
-    "sv": ""
-  },
-  "": {
-    "en": "",
     "fi": "",
     "sv": ""
   }
