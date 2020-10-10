@@ -17,7 +17,7 @@ const OrganizerContainer = styled.div`
 `
 */
 
-const IndexPage = ({ events, langCode }) => {
+const IndexPage = ({ events, langCode, pastEvents }) => {
   // const organizers = data.organizers.edges <-- This has to be added as props when we'll add it
   const eventsLink = langCode == "en" ? "/events" : `/${langCode}/events`
   return (
@@ -32,8 +32,10 @@ const IndexPage = ({ events, langCode }) => {
       ) : (
         <div>{getTranslation(langCode, "frontpage.no-upcoming-events")}</div>
       )}
+      <h2>{getTranslation(langCode, "frontpage.past-events")}</h2>
+      <Events events={pastEvents} />
       <Link to={eventsLink}>
-        {getTranslation(langCode, "frontpage.past-events")}
+        {getTranslation(langCode, "frontpage.more-past-events")}
       </Link>
       {/* TODO implement this */}
       {/* <OrganizerContainer>
@@ -50,6 +52,7 @@ const IndexPage = ({ events, langCode }) => {
 IndexPage.propTypes = {
   events: PropTypes.any,
   langCode: PropTypes.string,
+  pastEvents: PropTypes.any,
 }
 
 export default IndexPage

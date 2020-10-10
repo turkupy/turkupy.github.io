@@ -37,5 +37,10 @@
     "en": "No upcoming events",
     "fi": "Ei tulevia tapahtumia",
     "sv": ""
+  },
+  "frontpage.more-past-events": {
+    "en": "More past events",
+    "fi": "Lisää menneitä tapahtumia",
+    "sv": ""
   }
 }
