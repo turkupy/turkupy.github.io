@@ -25,8 +25,9 @@
     "sv": ""
   },
   "footer.request-feature": {
-    "en": "Request feature",
-    "fi": ""
+    "en": "Request a feature",
+    "fi": "",
+    "sv": ""
   },
   "frontpage.upcoming-events": {
     "en": "Upcoming events",
