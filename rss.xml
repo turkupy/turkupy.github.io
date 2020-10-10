@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Oct 2020 11:12:34 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Oct 2020 16:04:09 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
 We spent the afternoon figuring out how to make our Lego…]]></description><link>https://turkupy.github.io/en/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/en/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -498,8 +498,8 @@ Production 7.6. 10-11&lt;/p&gt;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instabots and Cybersecurity]]></title><description><![CDATA[In January we visited Identio for a meetup about Instagram bots and Cybersecurity. Heta Pärssinen is a fullstack developer working at…]]></description><link>https://turkupy.github.io/sv/instabots-and-cybersecurity/</link><guid isPermaLink="false">https://turkupy.github.io/sv/instabots-and-cybersecurity/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In January we visited Identio for a meetup about Instagram bots and Cybersecurity.&lt;/p&gt;
-&lt;p&gt;Heta Pärssinen is a fullstack developer working at Duunitori. Building bots for Instagram has been her occasional hobby and she wanted to share the technical secrets with us at this meetup.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instabotit ja Kyberturvallisuus]]></title><description><![CDATA[Tammikuussa kokoonnuimme Idention tiloihin puhumaan Instagramista ja kyberturvallisuudesta. Heta Pärssinen työskentelee fullstack…]]></description><link>https://turkupy.github.io/fi/instabots-and-cybersecurity/</link><guid isPermaLink="false">https://turkupy.github.io/fi/instabots-and-cybersecurity/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Tammikuussa kokoonnuimme Idention tiloihin puhumaan Instagramista ja kyberturvallisuudesta.&lt;/p&gt;
+&lt;p&gt;Heta Pärssinen työskentelee fullstack -kehittäjänä Duunitorilla. Hän on harrastuksekseen rakentanut Instagram botteja, ja halusi jakaa miitissämme niiden teknisiä salaisuuksia.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -517,8 +517,8 @@ Production 7.6. 10-11&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Heta presenting about Instabots.&quot;
-        title=&quot;Heta presenting about Instabots.&quot;
+        alt=&quot;Heta esitelmöi instaboteista.&quot;
+        title=&quot;Heta esitelmöi instaboteista.&quot;
         src=&quot;/static/704dca3c0e1e7390763e7213ecbed157/1c72d/heta.jpg&quot;
         srcset=&quot;/static/704dca3c0e1e7390763e7213ecbed157/a80bd/heta.jpg 148w,
 /static/704dca3c0e1e7390763e7213ecbed157/1c91a/heta.jpg 295w,
@@ -532,7 +532,7 @@ Production 7.6. 10-11&lt;/p&gt;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Pauliina Solanne is a software developer at HoxHunt. Cybersecurity is one of her interests, and she shared some interesting insights into social engineering and how our humanness can be used against us.&lt;/p&gt;
+&lt;p&gt;Pauliina Solanne työskentelee ohjelmistokehittäjänä HoxHuntilla. Kyberturvallisuus on yksi hänen mielenkiinnonkohteistaan, ja hänellä oli jaettavanaan kiinnostavaa tietoa sosiaalisesta manipuloinnista ja siitä, miten inhimillisyyttämme voidaan käyttää meitä vastaan.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -550,8 +550,8 @@ Production 7.6. 10-11&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Pauliina talking about cybersecurity.&quot;
-        title=&quot;Pauliina talking about cybersecurity.&quot;
+        alt=&quot;Pauliina kertoo kyberturvallisuudesta.&quot;
+        title=&quot;Pauliina kertoo kyberturvallisuudesta.&quot;
         src=&quot;/static/4c3dbb83863798ee331244fd994b492d/1c72d/pauliina.jpg&quot;
         srcset=&quot;/static/4c3dbb83863798ee331244fd994b492d/a80bd/pauliina.jpg 148w,
 /static/4c3dbb83863798ee331244fd994b492d/1c91a/pauliina.jpg 295w,
@@ -564,7 +564,7 @@ Production 7.6. 10-11&lt;/p&gt;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instabots and Cybersecurity]]></title><description><![CDATA[In January we visited Identio for a meetup about Instagram bots and Cybersecurity. Heta Pärssinen is a fullstack developer working at…]]></description><link>https://turkupy.github.io/fi/instabots-and-cybersecurity/</link><guid isPermaLink="false">https://turkupy.github.io/fi/instabots-and-cybersecurity/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In January we visited Identio for a meetup about Instagram bots and Cybersecurity.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instabots and Cybersecurity]]></title><description><![CDATA[In January we visited Identio for a meetup about Instagram bots and Cybersecurity. Heta Pärssinen is a fullstack developer working at…]]></description><link>https://turkupy.github.io/sv/instabots-and-cybersecurity/</link><guid isPermaLink="false">https://turkupy.github.io/sv/instabots-and-cybersecurity/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In January we visited Identio for a meetup about Instagram bots and Cybersecurity.&lt;/p&gt;
 &lt;p&gt;Heta Pärssinen is a fullstack developer working at Duunitori. Building bots for Instagram has been her occasional hobby and she wanted to share the technical secrets with us at this meetup.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
