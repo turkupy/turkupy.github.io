@@ -12,6 +12,7 @@
 
 Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md)
 
+
 ## Note that
 
 - Uses yarn, beware.
@@ -26,6 +27,8 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
 - `styled-components` for, well, styled components and reusability of styles
 - `react-helmet` for site metadata (for search engine config)
 - `gh-pages` for deploy
+
+Read more about [technologies and practices here](./docs/technologies-and-practices.md).
 
 ## Contributors
 

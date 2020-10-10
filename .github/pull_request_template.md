@@ -6,5 +6,3 @@ Resolves # .
 - 
 -
 -
-
-@turkupy/turkypy-maintainers
