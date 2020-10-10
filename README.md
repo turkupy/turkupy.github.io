@@ -61,20 +61,27 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/lketoja">
+            <img src="https://avatars3.githubusercontent.com/u/49682904?v=4" width="100;" alt="lketoja"/>
+            <br />
+            <sub><b>Lotta Ketoja</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mialav">
             <img src="https://avatars1.githubusercontent.com/u/42377820?v=4" width="100;" alt="mialav"/>
             <br />
             <sub><b>Mia L</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/vivek32ta">
             <img src="https://avatars1.githubusercontent.com/u/32357540?v=4" width="100;" alt="vivek32ta"/>
             <br />
             <sub><b>Vivek T A</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/heieidi">
             <img src="https://avatars1.githubusercontent.com/u/55654198?v=4" width="100;" alt="heieidi"/>
