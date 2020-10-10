@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Oct 2020 06:43:04 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Oct 2020 11:06:31 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
 We spent the afternoon figuring out how to make our Lego…]]></description><link>https://turkupy.github.io/en/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/en/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -891,8 +891,8 @@ Production 7.6. 10-11&lt;/p&gt;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Turku.py goes Data Science!]]></title><description><![CDATA[Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna. Our…]]></description><link>https://turkupy.github.io/fi/turkupy-goes-datascience/</link><guid isPermaLink="false">https://turkupy.github.io/fi/turkupy-goes-datascience/</guid><pubDate>Wed, 23 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our October 2019 meetup was the first meetup of Turku.py. It was hosted by Valohai. We had a demo of how Valohai works by Joanna.&lt;/p&gt;
-&lt;p&gt;Our speakers Anniina and Jenna held presentations about clustering and natural language processing in analyzing feelings in Twitter content.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Turku.py: datatiede!]]></title><description><![CDATA[Lokakuun 2019 tapaaminen oli Turku.py:n ensimmäinen tapaaminen. Tapaaminen pidettiin Valohain toimistolla. Joanna esitteli Valohain…]]></description><link>https://turkupy.github.io/fi/turkupy-goes-datascience/</link><guid isPermaLink="false">https://turkupy.github.io/fi/turkupy-goes-datascience/</guid><pubDate>Wed, 23 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lokakuun 2019 tapaaminen oli Turku.py:n ensimmäinen tapaaminen. Tapaaminen pidettiin Valohain toimistolla. Joanna esitteli Valohain toimintaa.&lt;/p&gt;
+&lt;p&gt;Puhujamme Anniina ja Jenna kertoivat klusteroinnista ja luonnollisen kielen käsittelystä liittyen tunteiden analysointiin Twitter-sisällöissä.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -910,8 +910,8 @@ Production 7.6. 10-11&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Jenna talking about analyzing twitter content.&quot;
-        title=&quot;Jenna talking about analyzing twitter content.&quot;
+        alt=&quot;Jenna kertoo Twitter-sisällön analysoinnista.&quot;
+        title=&quot;Jenna kertoo Twitter-sisällön analysoinnista.&quot;
         src=&quot;/static/5098647ef93b454207d2d510d3b1c169/1c72d/jenna.jpg&quot;
         srcset=&quot;/static/5098647ef93b454207d2d510d3b1c169/a80bd/jenna.jpg 148w,
 /static/5098647ef93b454207d2d510d3b1c169/1c91a/jenna.jpg 295w,
@@ -942,8 +942,8 @@ Production 7.6. 10-11&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Anniina presenting about clustering.&quot;
-        title=&quot;Anniina presenting about clustering.&quot;
+        alt=&quot;Anniina kertoo klusteroinnista.&quot;
+        title=&quot;Anniina kertoo klusteroinnista.&quot;
         src=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/1c72d/anniina.jpg&quot;
         srcset=&quot;/static/1fe6e945a549c728ad74ab6e65e3603b/a80bd/anniina.jpg 148w,
 /static/1fe6e945a549c728ad74ab6e65e3603b/1c91a/anniina.jpg 295w,
