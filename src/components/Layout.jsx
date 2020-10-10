@@ -8,7 +8,6 @@ import { colors } from "../utils/styles"
 import { getTranslation } from "../utils/translations/helpers"
 import Footer from "./Footer"
 
-
 const GlobalStyles = createGlobalStyle`
   body { 
     color: ${colors.darkGrey};
@@ -93,7 +92,6 @@ Layout.propTypes = {
     PropTypes.element,
     PropTypes.arrayOf(PropTypes.element),
   ]),
-  langCode: PropTypes.string,
 }
 
 export default Layout
