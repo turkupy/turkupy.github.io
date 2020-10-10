@@ -71,7 +71,7 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
         <a href="https://github.com/heieidi">
             <img src="https://avatars1.githubusercontent.com/u/55654198?v=4" width="100;" alt="heieidi"/>
             <br />
-            <sub><b>heieidi</b></sub>
+            <sub><b>Heieidi</b></sub>
         </a>
     </td></tr>
 <tr>
