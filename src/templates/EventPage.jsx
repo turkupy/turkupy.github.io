@@ -22,7 +22,6 @@ const EventPage = ({ data }) => {
   const regexedLangCode = fields.slug.match(regex)
   // Default to en if lang code is not found
   const langCode = regexedLangCode ? regexedLangCode[0] : "en"
-
   return (
     <Layout langCode={langCode}>
       <Seo title={frontmatter.title} />
