@@ -17,9 +17,11 @@ const EventDetail = styled.p`
 `
 
 const EventPage = ({ data }) => {
-  const { html, frontmatter } = data.markdownRemark
+  const { html, frontmatter, fields } = data.markdownRemark
+  const regex = /(\bfi)|(\ben)|(\bsv)/g
+  const langCode = fields.slug.match(regex)[0]
   return (
-    <Layout>
+    <Layout langCode={langCode}>
       <Seo title={frontmatter.title} />
       <EventTitle>{frontmatter.title}</EventTitle>
       <EventDetail>
@@ -40,11 +42,6 @@ export default EventPage
 
 export const pageQuery = graphql`
   query EventsBySlug($slug: String!) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       fields {
         slug
