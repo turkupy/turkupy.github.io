@@ -13,8 +13,8 @@ Tammikuussa kokoonnuimme Idention tiloihin puhumaan Instagramista ja kyberturval
 
 Heta Pärssinen työskentelee fullstack -kehittäjänä Duunitorilla. Hän on harrastuksekseen rakentanut Instagram botteja, ja halusi jakaa miitissämme niiden teknisiä salaisuuksia.
 
-![Heta presenting about Instabots.](heta.jpg)
+![Heta esitelmöi instaboteista.](heta.jpg)
 
 Pauliina Solanne työskentelee ohjelmistokehittäjänä HoxHuntilla. Kyberturvallisuus on yksi hänen mielenkiinnonkohteistaan, ja hänellä oli jaettavanaan kiinnostavaa tietoa sosiaalisesta manipuloinnista ja siitä, miten inhimillisyyttämme voidaan käyttää meitä vastaan.
 
-![Pauliina talking about cybersecurity.](pauliina.jpg)
+![Pauliina kertoo kyberturvallisuudesta.](pauliina.jpg)
