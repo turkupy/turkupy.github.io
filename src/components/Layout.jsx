@@ -72,7 +72,7 @@ const Layout = ({ children, langCode }) => {
           <SkipLink href="#main">
             {getTranslation(langCode, "header.skiplink")}
           </SkipLink>
-          <Link to="/">
+          <Link to={langCode === "en" ? "/" : `/${langCode}`}>
             <img
               src={logo}
               alt="Turku.py - programming community for women and nonbinaries"

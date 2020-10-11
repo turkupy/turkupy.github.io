@@ -12,7 +12,7 @@ const Index = ({ data }) => {
   // const organizers = data.organizers.edges
 
   return (
-    <Layout title={siteTitle}>
+    <Layout langCode={langCode} title={siteTitle}>
       <SEO title={siteTitle} lang={langCode} />
       <IndexPage events={events} langCode={langCode} />
     </Layout>
