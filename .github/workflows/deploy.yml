@@ -21,6 +21,11 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BASE_BRANCH: dev
-          BRANCH: master
+          BRANCH: main
           FOLDER: public
           CLEAN: true
+
+      - name: Add Contributor
+        uses: akhilmhdh/contributors-readme-action@v2.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
