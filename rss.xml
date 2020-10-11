@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Oct 2020 16:04:09 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 11 Oct 2020 05:24:11 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
 We spent the afternoon figuring out how to make our Lego…]]></description><link>https://turkupy.github.io/en/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/en/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -30,8 +30,8 @@ We spent the afternoon figuring out how to make our Lego…]]></description><lin
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;
-Our Robotics guild met up again on a sunny autumn day, this time in Helsinki.
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Our Robotics guild met up again on a sunny autumn day, this time in Helsinki.
 We spent the afternoon figuring out how to make our Lego robot speak and make sounds. We tried different ways of making the robot produce various tones, beeps, song lyrics and even Monty Python sayings! &lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -63,8 +63,8 @@ We spent the afternoon figuring out how to make our Lego robot speak and make so
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;
-Just like last time we used the EV3 Python library to control the robot. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotiikkaa Helsingissä]]></title><description><![CDATA[Robotiikka kerhomme tapasi jälleen aurinkoisena syyspäivänä, tällä kertaa Helsingissä. Vietimme iltapäivän tutkien Lego robotin tapaa puhua…]]></description><link>https://turkupy.github.io/fi/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/fi/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Just like last time we used the EV3 Python library to control the robot. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotiikkaa Helsingissä]]></title><description><![CDATA[Robotiikkakerhomme tapasi jälleen aurinkoisena syyspäivänä, tällä kertaa Helsingissä. Vietimme iltapäivän tutkien Lego-robotin tapaa puhua…]]></description><link>https://turkupy.github.io/fi/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/fi/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
@@ -95,9 +95,9 @@ Just like last time we used the EV3 Python library to control the robot. &lt;/p&
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;
-Robotiikka kerhomme tapasi jälleen aurinkoisena syyspäivänä, tällä kertaa Helsingissä.&lt;/p&gt;
-&lt;p&gt;Vietimme iltapäivän tutkien Lego robotin tapaa puhua ja tuottaa ääntä. Kokeilimme erilaisia äänenvärejä, piippauksia, laulujen lyriikoita ja jopa Monty Python sanontoja!&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Robotiikkakerhomme tapasi jälleen aurinkoisena syyspäivänä, tällä kertaa Helsingissä.&lt;/p&gt;
+&lt;p&gt;Vietimme iltapäivän tutkien Lego-robotin tapaa puhua ja tuottaa ääntä. Kokeilimme erilaisia äänenvärejä, piippauksia, laulujen lyriikoita ja jopa Monty Python sanontoja!&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -128,8 +128,8 @@ Robotiikka kerhomme tapasi jälleen aurinkoisena syyspäivänä, tällä kertaa 
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;
-Käytimme tälläkin kerralla EV3 Python -kirjastoa robotin ohjaamiseen. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Käytimme tälläkin kerralla EV3 Python -kirjastoa robotin ohjaamiseen. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
 We spent the afternoon figuring out how to make our Lego…]]></description><link>https://turkupy.github.io/sv/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/sv/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
