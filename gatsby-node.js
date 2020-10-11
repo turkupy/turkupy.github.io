@@ -4,6 +4,22 @@ const { createFilePath } = require("gatsby-source-filesystem")
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
+  // Generate Events page
+
+  const langCodes = ["en", "fi", "sv"]
+  const eventsPage = path.resolve("./src/templates/EventsPage.jsx")
+  langCodes.forEach(code => {
+    const path = code == "en" ? "/events" : `/${code}/events`
+
+    createPage({
+      path,
+      component: eventsPage,
+      context: {
+        langCode: code,
+      },
+    })
+  })
+
   const eventPage = path.resolve("./src/templates/EventPage.jsx")
   const result = await graphql(
     `
