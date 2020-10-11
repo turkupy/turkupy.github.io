@@ -61,6 +61,28 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/LehtinenHenna">
+            <img src="https://avatars1.githubusercontent.com/u/62622729?v=4" width="100;" alt="LehtinenHenna"/>
+            <br />
+            <sub><b>LehtinenHenna</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lketoja">
+            <img src="https://avatars3.githubusercontent.com/u/49682904?v=4" width="100;" alt="lketoja"/>
+            <br />
+            <sub><b>Lotta Ketoja</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/mialav">
+            <img src="https://avatars1.githubusercontent.com/u/42377820?v=4" width="100;" alt="mialav"/>
+            <br />
+            <sub><b>Mia L</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/vivek32ta">
             <img src="https://avatars1.githubusercontent.com/u/32357540?v=4" width="100;" alt="vivek32ta"/>
             <br />
@@ -73,8 +95,7 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
             <br />
             <sub><b>Heieidi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/lgrigoryeva1">
             <img src="https://avatars0.githubusercontent.com/u/22194440?v=4" width="100;" alt="lgrigoryeva1"/>
