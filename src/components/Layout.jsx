@@ -64,6 +64,8 @@ const StyledLayout = styled.div`
 `
 
 const Layout = ({ children, langCode }) => {
+  const linkToIndex = langCode === "en" ? "/" : `/${langCode}`
+
   return (
     <>
       <GlobalStyles />
@@ -72,7 +74,7 @@ const Layout = ({ children, langCode }) => {
           <SkipLink href="#main">
             {getTranslation(langCode, "header.skiplink")}
           </SkipLink>
-          <Link to="/">
+          <Link to={linkToIndex}>
             <img
               src={logo}
               alt="Turku.py - programming community for women and nonbinaries"
