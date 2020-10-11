@@ -2,7 +2,7 @@
 
 When you are adding a new event, here's the procedure: 
 
-1. Create a folder with the name of the event (see other events as example) under the correct language folder
+1. Create a folder with the name of the event (see other events as example) under the en-folder
 2. Create a markdown file index.md under the folder
 3. Add following remark to the start of the file, and fill it (again, check examples from other events):
 
@@ -30,7 +30,12 @@ Some notes:
 
 At least title, date, type and lang are required.
 
-Note, that first and foremost the event should be created in English. If you want, you can add Finnish and Swedish as well, but if you don't, please add an issue that these translations are missing. 
+4. Copy that file under fi- and sv-folders too. 
+5. Change lang-codes from the files under fi and sv-folders to respective langcodes. 
+
+Note, that first and foremost the event should be created in English. If you want, you can add Finnish and Swedish as well, but if you don't, please add an issue that these translations are missing, and leave the event text in English to the language folders. There is an issue template for adding missing translations.
+
+The title of the issue should be `[Translations] title-of-the-event - langcode` so for example `[Translations] Robotics sunday - sv`. In the description of the issue, please provide a link to the index.md file under that language folder from which you are creating the ticket.
 
 
 ## About language

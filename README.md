@@ -10,11 +10,7 @@
 
 ## Contibuting
 
-The branch for development is called `dev`(`master` is the branch from which deploys are made, due to the page being hosted on the org GitHub pages).
-
-1. Clone the repo
-2. Run `yarn`
-3. Start in dev mode by running `gatsby develop`
+Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Note that
 
@@ -23,10 +19,6 @@ The branch for development is called `dev`(`master` is the branch from which dep
 <!--alex ignore-->
 - Only use the theme colors (exported in `styles.js`).
 
-## Deploying
-
-Deploy is handled by GH-action. 
-
 ## Packages we use
 
 - Starter: [gatsby-starter-blog](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/)
@@ -34,3 +26,82 @@ Deploy is handled by GH-action.
 - `styled-components` for, well, styled components and reusability of styles
 - `react-helmet` for site metadata (for search engine config)
 - `gh-pages` for deploy
+
+## Contributors
+
+<!-- readme: contributors -start --> 
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/eevajonnapanula">
+            <img src="https://avatars0.githubusercontent.com/u/28345294?v=4" width="100;" alt="eevajonnapanula"/>
+            <br />
+            <sub><b>Eevis Panula</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/magdapoppins">
+            <img src="https://avatars2.githubusercontent.com/u/26743924?v=4" width="100;" alt="magdapoppins"/>
+            <br />
+            <sub><b>Magda Stenius</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/adhammo">
+            <img src="https://avatars2.githubusercontent.com/u/56611873?v=4" width="100;" alt="adhammo"/>
+            <br />
+            <sub><b>Adham Mohamed</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Augs0">
+            <img src="https://avatars0.githubusercontent.com/u/34795090?v=4" width="100;" alt="Augs0"/>
+            <br />
+            <sub><b>August</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/LehtinenHenna">
+            <img src="https://avatars1.githubusercontent.com/u/62622729?v=4" width="100;" alt="LehtinenHenna"/>
+            <br />
+            <sub><b>LehtinenHenna</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lketoja">
+            <img src="https://avatars3.githubusercontent.com/u/49682904?v=4" width="100;" alt="lketoja"/>
+            <br />
+            <sub><b>Lotta Ketoja</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/mialav">
+            <img src="https://avatars1.githubusercontent.com/u/42377820?v=4" width="100;" alt="mialav"/>
+            <br />
+            <sub><b>Mia L</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/vivek32ta">
+            <img src="https://avatars1.githubusercontent.com/u/32357540?v=4" width="100;" alt="vivek32ta"/>
+            <br />
+            <sub><b>Vivek T A</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/heieidi">
+            <img src="https://avatars1.githubusercontent.com/u/55654198?v=4" width="100;" alt="heieidi"/>
+            <br />
+            <sub><b>Heieidi</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lgrigoryeva1">
+            <img src="https://avatars0.githubusercontent.com/u/22194440?v=4" width="100;" alt="lgrigoryeva1"/>
+            <br />
+            <sub><b>Mila Grigoryeva</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: contributors -end -->

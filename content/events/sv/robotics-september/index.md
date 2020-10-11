@@ -11,5 +11,3 @@ Vi spenderade eftermiddagen med att lista ut hur vi kunde få vår Lego-robot at
 
 ![Roboten](robot.jpg)
 Precis som förra gången använde vi oss av EV3 Python-biblioteket för att kontrollera roboten.
-
-

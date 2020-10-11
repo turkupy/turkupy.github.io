@@ -18,4 +18,3 @@ Mila presenterade hennes Mimosa maskinprojekt, som använder sig av en z-wave fj
 Matematikern Eeva Rauramo höll en presenation om hur artificell intelligens kan användas inom bofköring och hur neurala nätwerk faktiskt fungerar under ytan.
 
 ![Eeva pratar om neurala nätverk.](eeva.jpg)
-

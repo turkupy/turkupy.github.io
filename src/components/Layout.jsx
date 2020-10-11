@@ -5,6 +5,8 @@ import styled from "styled-components"
 import logo from "../../content/assets/logo.png"
 import { createGlobalStyle } from "styled-components"
 import { colors } from "../utils/styles"
+import { getTranslation } from "../utils/translations/helpers"
+import Footer from "./Footer"
 
 const GlobalStyles = createGlobalStyle`
   body { 
@@ -19,6 +21,29 @@ const GlobalStyles = createGlobalStyle`
  h2,h3 {
     color: ${colors.darkGrey};
     font-size: calc(1.25rem + 0.5vw);
+  }
+
+  a {
+    color: ${colors.darkPink}
+  }
+
+  a:hover {
+    color: ${colors.darkGrey}
+  }
+`
+const SkipLink = styled.a`
+  color: ${colors.white};
+  background: ${colors.darkPink};
+  padding: 1rem;
+  position: absolute;
+  margin-bottom: 1rem;
+  transform: translateY(-100%);
+  &:focus {
+    transform: translateY(0%);
+  }
+  &:hover {
+    cursor: pointer;
+    color: ${colors.white};
   }
 `
 
@@ -38,16 +63,15 @@ const StyledLayout = styled.div`
   }
 `
 
-const Footer = styled.footer`
-  margin: 5rem 0 5rem 0;
-`
-
-const Layout = ({ children }) => {
+const Layout = ({ children, langCode }) => {
   return (
     <>
       <GlobalStyles />
       <StyledLayout>
         <header>
+          <SkipLink href="#main">
+            {getTranslation(langCode, "header.skiplink")}
+          </SkipLink>
           <Link to="/">
             <img
               src={logo}
@@ -55,14 +79,15 @@ const Layout = ({ children }) => {
             />
           </Link>
         </header>
-        <main>{children}</main>
-        <Footer></Footer>
+        <main id="main">{children}</main>
+        <Footer langCode={langCode} />
       </StyledLayout>
     </>
   )
 }
 
 Layout.propTypes = {
+  langCode: PropTypes.string,
   children: PropTypes.oneOfType([
     PropTypes.element,
     PropTypes.arrayOf(PropTypes.element),
