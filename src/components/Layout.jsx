@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 import styled from "styled-components"
 import logo from "../../content/assets/logo.png"
 import { createGlobalStyle } from "styled-components"
-import { colors } from "../utils/styles"
+import { colors, borderRadius } from "../utils/styles"
 import { getTranslation } from "../utils/translations/helpers"
 import Footer from "./Footer"
 
@@ -24,22 +24,33 @@ const GlobalStyles = createGlobalStyle`
   }
 
   a {
-    color: ${colors.darkPink}
+    color: ${colors.darkPink};
   }
 
   a:hover {
     color: ${colors.darkGrey}
   }
+
 `
+const Header = styled.header`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`
+
 const SkipLink = styled.a`
   color: ${colors.white};
-  background: ${colors.darkPink};
+  background: ${colors.lightPink};
   padding: 1rem;
-  position: absolute;
+  margin-top: 1rem;
   margin-bottom: 1rem;
-  transform: translateY(-100%);
+  transform: translateY(-130%);
+  font-weight: bold;
+  border-radius: ${borderRadius.small};
   &:focus {
     transform: translateY(0%);
+    outline: none;
+    box-shadow: 0 0 0 0.4em ${colors.darkPink};
   }
   &:hover {
     cursor: pointer;
@@ -70,7 +81,7 @@ const Layout = ({ children, langCode }) => {
     <>
       <GlobalStyles />
       <StyledLayout>
-        <header>
+        <Header>
           <SkipLink href="#main">
             {getTranslation(langCode, "header.skiplink")}
           </SkipLink>
@@ -80,7 +91,7 @@ const Layout = ({ children, langCode }) => {
               alt="Turku.py - programming community for women and nonbinaries"
             />
           </Link>
-        </header>
+        </Header>
         <main id="main">{children}</main>
         <Footer langCode={langCode} />
       </StyledLayout>
