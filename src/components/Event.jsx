@@ -2,7 +2,7 @@ import React from "react"
 import styled from "styled-components"
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
-import { colors } from "../utils/styles"
+import { colors, borderRadius } from "../utils/styles"
 import { formatDate } from "../utils/utils"
 
 const EventCard = styled.article`
@@ -14,7 +14,7 @@ const EventCard = styled.article`
   color: ${colors.darkGrey};
   line-height: 2rem;
   min-height: 13em;
-  border-radius: 0.5em;
+  border-radius: ${borderRadius.medium};
   position: relative;
   &:hover,
   &:focus-within {
@@ -27,19 +27,41 @@ const EventCard = styled.article`
   &:hover a {
     color: ${colors.darkGrey};
   }
+
+  &:focus a {
+    outline: none;
+  }
 `
 
 const EventTitle = styled.h3`
   margin-top: 0.8em;
   color: inherit;
+  box-sizing: border-box;
+  padding: 0.25em;
+  border-radius: ${borderRadius.small};
+  &:focus-within {
+    box-shadow: 0 0 0 0.25em ${colors.lightPink};
+  }
+
+  &:focus-within:hover {
+    box-shadow: none;
+  }
 
   & > a {
     color: ${colors.darkGrey};
   }
 
-  & > a:hover,
-  & > a:focus {
+  & > a:hover {
     color: ${colors.darkGrey};
+    border-bottom: 0.25rem solid ${colors.lightPink};
+  }
+
+  & > a:focus {
+    outline: none;
+  }
+
+  & > a:hover:focus {
+    box-shadow: none;
     border-bottom: 0.25rem solid ${colors.lightPink};
   }
 `
