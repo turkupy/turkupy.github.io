@@ -7,6 +7,6 @@ export const colors = {
 }
 
 export const borderRadius = {
-  small: "5px", // 0.3125em
-  medium: "8px", // 0.5em
+  small: "0.3125em",
+  medium: "0.5em",
 }
