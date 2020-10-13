@@ -4,10 +4,8 @@ export const formatDate = dateString => {
 }
 
 export const getLangCode = slug => {
-  const regex = /(\bfi)|(\ben)|(\bsv)/g
+  const regex = /(\bfi)|(\ben)|(\bsv)/
   const regexedLangCode = slug.match(regex)
   // Default to en if lang code is not found
-  const langCode = regexedLangCode ? regexedLangCode[0] : "en"
-
-  return langCode
+  return regexedLangCode ? regexedLangCode[0] : "en"
 }
