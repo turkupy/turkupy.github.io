@@ -1,5 +1,5 @@
 ---
-title: "Effective Python reading circle"
+title: "Effective Python lukupiiri"
 date: "2020-04-05"
 speakers:
     - Mila
@@ -9,12 +9,13 @@ type: "event"
 lang: fi
 ---
 
-In the spring of 2020 we are organizing a series of online reading circles. The language spoken is English, and anyone is welcome to take part either as a listener or in the discussion, regardless of how much experience one has in Python programming.
+Keväällä 2020 järjestämme verkossa sarjan lukupiirejä. Puhuttu kieli on englanti, mutta kaikki ovat tervetulleita joko kuuntelijaksi tai osallistumaan keskusteluun riippumatta Python-ohjelmointi kokemuksesta.
 
-## Content
-This series of study circles goes over Brett Slatkins book Effective Python, that discusses some specifics of Python programming in regards to style, conventions and gotchas. The difficulty level of the book increases chapter by chapter, so the most interesting circles for beginners are probably the first and second one. After that, we noticed it gets pretty hard.
+## Sisältö
 
-## Chapters and dates
+Opintopiirien sarjassa käydään läpi Brett Slatkinsin kirjaa Effective Python, joka perehdyttää Python ohjelmoinnin erikoisuuksiin tyylissä, käytänteissä ja *gotchas*. Kirjan vaikeusaste nousee kappale kappaleelta, joten aloittelijoille kiinnostavimmat lukupiirit ovat todennäköisesti kaksi ensimmäistä. Tämän jälkeen kirjan kappaleiden vaikeustaso nousee selvästi.
+
+## Kappaleet ja päivämäärät
 Pythonic Thinking 5.4.20 10-11
 Functions 13.4.20 10-11
 Classes and Inheritance 19.4.20 10-11
@@ -24,7 +25,7 @@ Built-in Modules 24.5. 10-11
 Collaboration 31.5. 10-11
 Production 7.6. 10-11
 
-## Summary
-During April to June, we managed to have study circles for each chapter!
+## Yhteenveto
+Olemme onnistuneet saamaan lukupiirit kaikille kappaleille huhti-kesäkuulle! 
 
-Notes on the meetups can be found in the [GitHub repository](https://github.com/turkupy/effective-python-studygroup). Feel free to add your own notes and create a pull request!
+Kokoontumisten muistiinpanot löytyvät täältä: [GitHub repository](https://github.com/turkupy/effective-python-studygroup). Voit myös lisätä omat muistiinpanosi ja lähettää ne (pull request)!
