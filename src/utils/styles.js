@@ -5,3 +5,8 @@ export const colors = {
   darkGrey: "#4D4E51",
   white: "#FFFFFF",
 }
+
+export const borderRadius = {
+  small: "0.3125em",
+  medium: "0.5em",
+}

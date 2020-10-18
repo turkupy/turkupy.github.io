@@ -5,7 +5,7 @@ import Layout from "../components/Layout"
 import styled from "styled-components"
 import { colors } from "../utils/styles"
 import Seo from "../components/Seo"
-import { formatDate } from "../utils/utils"
+import { formatDate, getLangCode } from "../utils/utils"
 
 const EventTitle = styled.h1`
   margin-bottom: 0.4em;
@@ -18,10 +18,7 @@ const EventDetail = styled.p`
 
 const EventPage = ({ data }) => {
   const { html, frontmatter, fields } = data.markdownRemark
-  const regex = /(\bfi)|(\ben)|(\bsv)/g
-  const regexedLangCode = fields.slug.match(regex)
-  // Default to en if lang code is not found
-  const langCode = regexedLangCode ? regexedLangCode[0] : "en"
+  const langCode = getLangCode(fields.slug)
   return (
     <Layout langCode={langCode}>
       <Seo title={frontmatter.title} />
