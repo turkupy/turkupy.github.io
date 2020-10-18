@@ -114,7 +114,7 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
         <a href="https://github.com/sjarva">
             <img src="https://avatars1.githubusercontent.com/u/1133238?v=4" width="100;" alt="sjarva"/>
             <br />
-            <sub><b>sjarva</b></sub>
+            <sub><b>Sjarva</b></sub>
         </a>
     </td></tr>
 </table>
