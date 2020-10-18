@@ -1,1 +1,1 @@
-exports.allow = ["host-hostess", "color"]
+exports.allow = ["host-hostess", "colors", "color", "white"]
