@@ -10,6 +10,7 @@ import Footer from "./Footer"
 
 const GlobalStyles = createGlobalStyle`
   body { 
+    background-color: ${colors.white}
     color: ${colors.darkGrey};
     font-size: calc(1rem + 0.5vw);
   }
