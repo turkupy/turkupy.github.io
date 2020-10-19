@@ -12,4 +12,3 @@ We spent the afternoon figuring out how to make our Lego robot speak and make so
 ![The robot](robot.jpg)
 Just like last time we used the EV3 Python library to control the robot. 
 
-

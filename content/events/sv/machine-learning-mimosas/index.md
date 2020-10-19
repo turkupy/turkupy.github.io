@@ -18,4 +18,3 @@ Mila presented her Mimosa machine project, which used a z-wave remote control an
 Mathematician Eeva Rauramo held a presentation about how artificial intelligence can be used in accounting and what neural networks actually are under the hood.
 
 ![Eeva presenting about neural networks.](eeva.jpg)
-

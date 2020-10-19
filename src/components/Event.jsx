@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import { colors, borderRadius } from "../utils/styles"
 import { formatDate } from "../utils/utils"
+import { getTranslation } from "../utils/translations/helpers"
 
 const EventCard = styled.article`
   display: flex;
@@ -87,15 +88,23 @@ const StyledLink = styled(Link)`
   }
 `
 
-const Event = ({ title, date, host, slug }) => {
+const Event = ({ title, date, host, slug, lang }) => {
   return (
     <EventCard>
       <EventTitle>
         <StyledLink to={slug}>{title} </StyledLink>
       </EventTitle>
       <EventInfo>
-        {date && <DateSpan>Date: {formatDate(date)}</DateSpan>}
-        {host && <p>Hosted by {host}</p>}
+        {date && (
+          <DateSpan>
+            {getTranslation(lang, "frontpage.date")}: {formatDate(date)}
+          </DateSpan>
+        )}
+        {host && (
+          <p>
+            {getTranslation(lang, "frontpage.hosted-by")} {host}
+          </p>
+        )}
       </EventInfo>
     </EventCard>
   )
@@ -106,6 +115,7 @@ Event.propTypes = {
   host: PropTypes.string,
   slug: PropTypes.string.isRequired,
   date: PropTypes.string,
+  lang: PropTypes.string,
 }
 
 export default Event
