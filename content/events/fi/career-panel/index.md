@@ -10,8 +10,8 @@ type: "event"
 lang: fi
 ---
 
-In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.
+Helmikuussa meillä oli erittäin jännittävä paneelikeskustelu, johon osallistui kolme ohjelmistokehittäjää, joilla kaikilla on hyvin erilaiset urapolut. Tätä tapaamista isännöi Reaktor, ja muutamat reaktorilaiset jakoivat mukavia kesätyötarinoitaan.
 
-We also had a get-to-know-each-other bingo and some pizza!
+Meillä oli myös pieni esittelykierros ja pizzaa!
 
-![The panelists having a discussion.](careerpanel.jpg)
+![Panelistit keskustelemassa.](careerpanel.jpg)
