@@ -7,4 +7,3 @@ Resolves # .
 -
 -
 
-@turkupy/turkypy-maintainers
