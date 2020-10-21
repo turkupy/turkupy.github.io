@@ -1,5 +1,5 @@
 ---
-title: "Robotics Sunday"
+title: "Robottisunnuntai"
 date: "2020-08-30"
 type: "event"
 host:

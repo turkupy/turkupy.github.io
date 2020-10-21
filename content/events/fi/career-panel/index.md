@@ -1,5 +1,5 @@
 ---
-title: "Getting started in your Tech Career"
+title: "Uran aloittaminen ohjelmistoalalla"
 date: "2020-02-19"
 speakers:
   - Eeva-Jonna Panula

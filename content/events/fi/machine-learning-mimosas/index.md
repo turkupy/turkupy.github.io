@@ -1,5 +1,5 @@
 ---
-title: "Machine learning and Mimosas!"
+title: "Koneoppimista ja mimosoja!"
 date: "2019-12-11"
 speakers:
   - Mila
