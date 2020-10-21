@@ -9,13 +9,12 @@ type: "event"
 lang: fi
 ---
 
-Our December meetup with a "little xmas" theme was hosted by Anders at their Turku office.
+Joulukuun pikkujouluteemainen tapaamisemme pidettiin Andersin toimistolla Turussa.
 
-Mila presented her Mimosa machine project, which used a z-wave remote control and python to mix some drinks.
+Mila esitteli hänen Mimosa-kone-projektinsa, joka käyttää z-aaltoista kaukosäädintä ja python-ohjelmointikieltä drinkkijuomien sekoittamiseen.
 
-![Mila and the mimosa machine.](mila.jpg)
+![Mila ja mimosakone.](mila.jpg)
 
-Mathematician Eeva Rauramo held a presentation about how artificial intelligence can be used in accounting and what neural networks actually are under the hood.
+Matemaatikko Eeva Rauramo piti esityksen tekoälyn käyttämisestä laskentatoimessa ja mitä neuroverkot oikeastaan ovat konepellin alla.
 
-![Eeva presenting about neural networks.](eeva.jpg)
-
+![Eeva pitää esitystä neuroverkoista.](eeva.jpg)

@@ -2,10 +2,10 @@
 title: "Robotics Sunday"
 date: "2020-08-30"
 type: "event"
-host: 
+host:
 lang: fi
 ---
 
-We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from different laptops which was very fun. We played around with the motors, sensors and sounds using the Python ev3dev module.   
+Vietimme sunnuntai-iltapäivän hypistelemällä uutta Lego Mindstorms-robottia. Käytimme VSCoden Live Share-toiminnallisuutta, jolla jaoimme saman koodin eri läppäreille samanaikaisesti, mikä oli hauskaa. Leikimme moottoreilla, sensoreilla ja äänillä käyttäen Python ev3dev-moduulia.
 
-![Playing with the robot](robotics.jpg)
+![Robotin kanssa leikkimistä.](robotics.jpg)
