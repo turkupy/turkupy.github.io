@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Oct 2020 13:07:18 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Turku.py -meetups]]></title><description><![CDATA[We are a computer science community]]></description><link>https://turkupy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 21 Oct 2020 03:46:34 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Magda is a typescript/python developer working at Valohai.]]></description><link>https://turkupy.github.io/magda/</link><guid isPermaLink="false">https://turkupy.github.io/magda/</guid><content:encoded>&lt;p&gt;Magda is a typescript/python developer working at Valohai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Mila is awesome!]]></description><link>https://turkupy.github.io/mila/</link><guid isPermaLink="false">https://turkupy.github.io/mila/</guid><content:encoded>&lt;p&gt;Mila is awesome!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics day in Helsinki]]></title><description><![CDATA[Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
 We spent the afternoon figuring out how to make our Lego…]]></description><link>https://turkupy.github.io/en/robotics-september/</link><guid isPermaLink="false">https://turkupy.github.io/en/robotics-september/</guid><pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -227,7 +227,7 @@ Just like last time we used the EV3 Python library to control the robot. &lt;/p&
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics Sunday]]></title><description><![CDATA[We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from…]]></description><link>https://turkupy.github.io/fi/robotics-sunday/</link><guid isPermaLink="false">https://turkupy.github.io/fi/robotics-sunday/</guid><pubDate>Sun, 30 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We spent the Sunday afternoon fiddling with the Lego Mindstorms robot. We used the VSCode Live Share feature to code simultaneously from different laptops which was very fun. We played around with the motors, sensors and sounds using the Python ev3dev module.   &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Robotics Sunday]]></title><description><![CDATA[Vietimme sunnuntai-iltapäivän hypistelemällä uutta Lego Mindstorms-robottia. Käytimme VSCoden Live Share-toiminnallisuutta, jolla jaoimme…]]></description><link>https://turkupy.github.io/fi/robotics-sunday/</link><guid isPermaLink="false">https://turkupy.github.io/fi/robotics-sunday/</guid><pubDate>Sun, 30 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vietimme sunnuntai-iltapäivän hypistelemällä uutta Lego Mindstorms-robottia. Käytimme VSCoden Live Share-toiminnallisuutta, jolla jaoimme saman koodin eri läppäreille samanaikaisesti, mikä oli hauskaa. Leikimme moottoreilla, sensoreilla ja äänillä käyttäen Python ev3dev-moduulia.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -245,8 +245,8 @@ Just like last time we used the EV3 Python library to control the robot. &lt;/p&
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Playing with the robot&quot;
-        title=&quot;Playing with the robot&quot;
+        alt=&quot;Robotin kanssa leikkimistä.&quot;
+        title=&quot;Robotin kanssa leikkimistä.&quot;
         src=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/1c72d/robotics.jpg&quot;
         srcset=&quot;/static/e38aa2fb8d41148930e2fb21b8e480f1/a80bd/robotics.jpg 148w,
 /static/e38aa2fb8d41148930e2fb21b8e480f1/1c91a/robotics.jpg 295w,
@@ -366,8 +366,8 @@ Production 7.6. 10-11&lt;/p&gt;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting started in your Tech Career]]></title><description><![CDATA[In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was…]]></description><link>https://turkupy.github.io/fi/career-panel/</link><guid isPermaLink="false">https://turkupy.github.io/fi/career-panel/</guid><pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.&lt;/p&gt;
-&lt;p&gt;We also had a get-to-know-each-other bingo and some pizza!&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting started in your Tech Career]]></title><description><![CDATA[Helmikuussa meillä oli erittäin jännittävä paneelikeskustelu, johon osallistui kolme ohjelmistokehittäjää, joilla kaikilla on hyvin…]]></description><link>https://turkupy.github.io/fi/career-panel/</link><guid isPermaLink="false">https://turkupy.github.io/fi/career-panel/</guid><pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Helmikuussa meillä oli erittäin jännittävä paneelikeskustelu, johon osallistui kolme ohjelmistokehittäjää, joilla kaikilla on hyvin erilaiset urapolut. Tätä tapaamista isännöi Reaktor, ja muutamat reaktorilaiset jakoivat mukavia kesätyötarinoitaan.&lt;/p&gt;
+&lt;p&gt;Meillä oli myös pieni esittelykierros ja pizzaa!&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -385,8 +385,8 @@ Production 7.6. 10-11&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;The panelists having a discussion.&quot;
-        title=&quot;The panelists having a discussion.&quot;
+        alt=&quot;Panelistit keskustelemassa.&quot;
+        title=&quot;Panelistit keskustelemassa.&quot;
         src=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/1c72d/careerpanel.jpg&quot;
         srcset=&quot;/static/7a5cf73c379e99f8f67d7d2a942e4793/a80bd/careerpanel.jpg 148w,
 /static/7a5cf73c379e99f8f67d7d2a942e4793/1c91a/careerpanel.jpg 295w,
@@ -695,8 +695,8 @@ Production 7.6. 10-11&lt;/p&gt;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Machine learning and Mimosas!]]></title><description><![CDATA[Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office. Mila presented her Mimosa machine project, which…]]></description><link>https://turkupy.github.io/fi/machine-learning-mimosas/</link><guid isPermaLink="false">https://turkupy.github.io/fi/machine-learning-mimosas/</guid><pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Our December meetup with a “little xmas” theme was hosted by Anders at their Turku office.&lt;/p&gt;
-&lt;p&gt;Mila presented her Mimosa machine project, which used a z-wave remote control and python to mix some drinks.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Machine learning and Mimosas!]]></title><description><![CDATA[Joulukuun pikkujouluteemainen tapaamisemme pidettiin Andersin toimistolla Turussa. Mila esitteli hänen Mimosa-kone-projektinsa, joka käyttää…]]></description><link>https://turkupy.github.io/fi/machine-learning-mimosas/</link><guid isPermaLink="false">https://turkupy.github.io/fi/machine-learning-mimosas/</guid><pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Joulukuun pikkujouluteemainen tapaamisemme pidettiin Andersin toimistolla Turussa.&lt;/p&gt;
+&lt;p&gt;Mila esitteli hänen Mimosa-kone-projektinsa, joka käyttää z-aaltoista kaukosäädintä ja python-ohjelmointikieltä drinkkijuomien sekoittamiseen.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -714,8 +714,8 @@ Production 7.6. 10-11&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Mila and the mimosa machine.&quot;
-        title=&quot;Mila and the mimosa machine.&quot;
+        alt=&quot;Mila ja mimosakone.&quot;
+        title=&quot;Mila ja mimosakone.&quot;
         src=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/1c72d/mila.jpg&quot;
         srcset=&quot;/static/ef14c48bc08c220a7eb5301f13ccbbdf/a80bd/mila.jpg 148w,
 /static/ef14c48bc08c220a7eb5301f13ccbbdf/1c91a/mila.jpg 295w,
@@ -729,7 +729,7 @@ Production 7.6. 10-11&lt;/p&gt;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Mathematician Eeva Rauramo held a presentation about how artificial intelligence can be used in accounting and what neural networks actually are under the hood.&lt;/p&gt;
+&lt;p&gt;Matemaatikko Eeva Rauramo piti esityksen tekoälyn käyttämisestä laskentatoimessa ja mitä neuroverkot oikeastaan ovat konepellin alla.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -747,8 +747,8 @@ Production 7.6. 10-11&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Eeva presenting about neural networks.&quot;
-        title=&quot;Eeva presenting about neural networks.&quot;
+        alt=&quot;Eeva pitää esitystä neuroverkoista.&quot;
+        title=&quot;Eeva pitää esitystä neuroverkoista.&quot;
         src=&quot;/static/9c7160facc2769aa2844719904cbff6e/1c72d/eeva.jpg&quot;
         srcset=&quot;/static/9c7160facc2769aa2844719904cbff6e/a80bd/eeva.jpg 148w,
 /static/9c7160facc2769aa2844719904cbff6e/1c91a/eeva.jpg 295w,
