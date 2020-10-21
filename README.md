@@ -47,6 +47,13 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/sjarva">
+            <img src="https://avatars1.githubusercontent.com/u/1133238?v=4" width="100;" alt="sjarva"/>
+            <br />
+            <sub><b>Sjarva</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/adhammo">
             <img src="https://avatars2.githubusercontent.com/u/56611873?v=4" width="100;" alt="adhammo"/>
             <br />
@@ -66,15 +73,15 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
             <br />
             <sub><b>Fandika Okdiba</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/LehtinenHenna">
             <img src="https://avatars1.githubusercontent.com/u/62622729?v=4" width="100;" alt="LehtinenHenna"/>
             <br />
             <sub><b>LehtinenHenna</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/lketoja">
             <img src="https://avatars3.githubusercontent.com/u/49682904?v=4" width="100;" alt="lketoja"/>
@@ -108,13 +115,6 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
             <img src="https://avatars0.githubusercontent.com/u/22194440?v=4" width="100;" alt="lgrigoryeva1"/>
             <br />
             <sub><b>Mila Grigoryeva</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/sjarva">
-            <img src="https://avatars1.githubusercontent.com/u/1133238?v=4" width="100;" alt="sjarva"/>
-            <br />
-            <sub><b>Sjarva</b></sub>
         </a>
     </td></tr>
 </table>
