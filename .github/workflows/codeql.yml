@@ -1,8 +1,6 @@
 name: "Run CodeQL analysis"
 
 on:
-  push:
-    branches: [dev]
   pull_request:
     branches: [dev]
   schedule:
