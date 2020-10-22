@@ -11,12 +11,13 @@ const Index = ({ data, location }) => {
   const langCode = getLangCode(pathname)
   const siteTitle = data.site.siteMetadata.title
   const events = data.events.edges
+  const pastEvents = data.pastEvents.edges
   // const organizers = data.organizers.edges
 
   return (
     <Layout langCode={langCode} title={siteTitle}>
       <SEO title={siteTitle} />
-      <IndexPage events={events} langCode={langCode} />
+      <IndexPage events={events} pastEvents={pastEvents} langCode={langCode} />
     </Layout>
   )
 }
@@ -38,8 +39,38 @@ export const pageQuery = graphql`
     events: allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {
-        frontmatter: { type: { eq: "event" }, lang: { eq: $langCode } }
+        frontmatter: {
+          type: { eq: "event" }
+          lang: { eq: $langCode }
+          date: { gte: "now()" }
+        }
       }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            host
+            date
+            speakers
+            lang
+          }
+        }
+      }
+    }
+    pastEvents: allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: {
+        frontmatter: {
+          type: { eq: "event" }
+          lang: { eq: $langCode }
+          date: { lte: "now()" }
+        }
+      }
+      limit: 4
     ) {
       edges {
         node {

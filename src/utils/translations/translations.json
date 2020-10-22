@@ -28,5 +28,20 @@
     "en": "Request a feature",
     "fi": "",
     "sv": ""
+  },
+  "frontpage.upcoming-events": {
+    "en": "Upcoming events",
+    "fi": "Tulevat tapahtumat",
+    "sv": ""
+  },
+  "frontpage.no-upcoming-events": {
+    "en": "No upcoming events",
+    "fi": "Ei tulevia tapahtumia",
+    "sv": ""
+  },
+  "frontpage.more-past-events": {
+    "en": "More past events",
+    "fi": "Lisää menneitä tapahtumia",
+    "sv": ""
   }
 }
