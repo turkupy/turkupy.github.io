@@ -13,7 +13,7 @@ Keväällä 2020 järjestämme verkossa sarjan lukupiirejä. Puhuttu kieli on en
 
 ## Sisältö
 
-Opintopiirien sarjassa käydään läpi Brett Slatkinsin kirjaa Effective Python, joka perehdyttää Python ohjelmoinnin erikoisuuksiin tyylissä, käytänteissä ja *gotchas*. Kirjan vaikeusaste nousee kappale kappaleelta, joten aloittelijoille kiinnostavimmat lukupiirit ovat todennäköisesti kaksi ensimmäistä. Tämän jälkeen kirjan kappaleiden vaikeustaso nousee selvästi.
+Opintopiirien sarjassa käydään läpi Brett Slatkinsin kirjaa Effective Python, joka perehdyttää Python ohjelmoinnin erikoisuuksiin tyylissä, käytänteissä ja jipoissa. Kirjan vaikeusaste nousee kappale kappaleelta, joten aloittelijoille kiinnostavimmat lukupiirit ovat todennäköisesti kaksi ensimmäistä. Tämän jälkeen kirjan kappaleiden vaikeustaso nousee selvästi.
 
 ## Kappaleet ja päivämäärät
 Pythonic Thinking 5.4.20 10-11
