@@ -111,6 +111,14 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/kzrantan">
+            <img src="https://avatars3.githubusercontent.com/u/62842678?v=4" width="100;" alt="kzrantan"/>
+            <br />
+            <sub><b>kzrantan</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/lgrigoryeva1">
             <img src="https://avatars0.githubusercontent.com/u/22194440?v=4" width="100;" alt="lgrigoryeva1"/>
             <br />
