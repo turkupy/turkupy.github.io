@@ -5,6 +5,7 @@ import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import Events from "../components/Events"
 import { getLangCode } from "../utils/utils"
+import { getTranslation } from "../utils/translations/helpers"
 
 const EventsPage = ({ data, location }) => {
   const { pathname } = location
@@ -16,9 +17,13 @@ const EventsPage = ({ data, location }) => {
   return (
     <Layout title={siteTitle} langCode={langCode}>
       <SEO title={siteTitle} />
-      <h2>Upcoming Events</h2>
-      <Events events={upcomingEvents} />
-      <h2>Past Events</h2>
+      <h2>{getTranslation(langCode, "frontpage.upcoming-events")}</h2>
+      {upcomingEvents.length ? (
+        <Events events={upcomingEvents} />
+      ) : (
+        <p>{getTranslation(langCode, "frontpage.no-upcoming-events")}</p>
+      )}
+      <h2>{getTranslation(langCode, "frontpage.past-events")}</h2>
       <Events events={pastEvents} />
     </Layout>
   )
