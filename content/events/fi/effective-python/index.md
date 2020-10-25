@@ -28,4 +28,4 @@ Production 7.6. 10-11
 ## Yhteenveto
 Olemme onnistuneet saamaan lukupiirit kaikille kappaleille huhti-kesäkuulle! 
 
-Kokoontumisten muistiinpanot löytyvät täältä: [GitHub repository](https://github.com/turkupy/effective-python-studygroup). Voit myös lisätä omat muistiinpanosi ja lähettää ne (pull request)!
+Kokoontumisten muistiinpanot löytyvät [GitHub reposta](https://github.com/turkupy/effective-python-studygroup). Voit myös lisätä omat muistiinpanosi tekemällä pull requestin!
