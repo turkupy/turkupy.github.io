@@ -114,7 +114,7 @@ Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md
         <a href="https://github.com/kzrantan">
             <img src="https://avatars3.githubusercontent.com/u/62842678?v=4" width="100;" alt="kzrantan"/>
             <br />
-            <sub><b>kzrantan</b></sub>
+            <sub><b>Kzrantan</b></sub>
         </a>
     </td></tr>
 <tr>
