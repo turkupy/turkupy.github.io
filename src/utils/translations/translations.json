@@ -1,7 +1,7 @@
 {
   "header.skiplink": {
     "en": "Skip to main content",
-    "fi": "",
+    "fi": "Hyppää suoraan pääsisältöön",
     "sv": ""
   },
   "frontpage.title": {
@@ -11,22 +11,22 @@
   },
   "frontpage.preamble": {
     "en": "We are a computer science community",
-    "fi": "",
+    "fi": "Ohjelmointiyhteisö",
     "sv": ""
   },
   "frontpage.infotext": {
     "en": "Turku.py is a programming community for women and non-binaries in Turku, Finland. We organize meetups, workshops and afterworks that aim to support the local tech culture, share skills and knowlegde and inspire people from minority groups in the fields of programming, devops and data science.",
-    "fi": "",
+    "fi": "Turku.py on yhteisö ohjelmoinnista kiinnostuneille naisille ja muunsukupuolisille. Toimimme Turussa ja järjestämme tapaamisia, workshoppeja ja after-work-hengailuja, joiden tarkoitus on tukea paikallista ohjelmointikulttuuria, jakaa tietoa ja osaamista, ja inspiroida vähemmistöihin kuuluvia ihmisiä mukaan ohjelmointiin, DevOps-toimintaan ja datankäsittelyyn.",
     "sv": ""
   },
   "frontpage.past-events": {
     "en": "Past events",
-    "fi": "",
+    "fi": "Menneet tapahtumat",
     "sv": ""
   },
   "footer.request-feature": {
     "en": "Request a feature",
-    "fi": "",
+    "fi": "Ehdota toiminallisuutta",
     "sv": ""
   },
   "frontpage.upcoming-events": {
