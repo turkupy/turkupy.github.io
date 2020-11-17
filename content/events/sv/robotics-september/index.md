@@ -1,15 +1,13 @@
 ---
-title: "Robotics day in Helsinki"
+title: "Robotik dag i Helsingfors"
 date: "2020-09-18"
 type: "event"
 lang: sv
 ---
 
-![Friday afternoon in Helsinki](gals.jpg)
-Our Robotics guild met up again on a sunny autumn day, this time in Helsinki. 
-We spent the afternoon figuring out how to make our Lego robot speak and make sounds. We tried different ways of making the robot produce various tones, beeps, song lyrics and even Monty Python sayings! 
+![Fredag eftermiddag i Helsingfors](gals.jpg)
+Vår Robotikgrupp träffades på nytt en solig höst dag, denna gången i Helsingfors.
+Vi spenderade eftermiddagen med att lista ut hur vi kunde få vår Lego-robot att prata och göra olika ljud. Vi prövade olika sätt att få roboten att skapa olika ljudtoner, läten, uttala låttexter och citat från Monty Python!
 
-![The robot](robot.jpg)
-Just like last time we used the EV3 Python library to control the robot. 
-
-
+![Roboten](robot.jpg)
+Precis som förra gången använde vi oss av EV3 Python-biblioteket för att kontrollera roboten.

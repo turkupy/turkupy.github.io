@@ -1,5 +1,5 @@
 ---
-title: "Getting started in your Tech Career"
+title: "Kickstarta din Tech-karriär"
 date: "2020-02-19"
 speakers:
   - Eeva-Jonna Panula
@@ -10,8 +10,8 @@ type: "event"
 lang: sv
 ---
 
-In February we had a very exciting panel discussion by three software developers who all had very different career paths. Our meetup was hosted by Reaktor, and some Reaktorians also shared some nice summer work stories.
+I februari hade vi en mycket spännande paneldiskussion med tre mjukvaruutvecklare som alla hade väldigt olika karriärsresor. Vår träffs värd var Reaktor, och vissa Reaktor anställda delade med sig om några fina sommarjobs berättelser.
 
-We also had a get-to-know-each-other bingo and some pizza!
+Vi hade även mingelbingo och lite pizza!
 
-![The panelists having a discussion.](careerpanel.jpg)
+![Paneldeltagarna har en diskussion.](careerpanel.jpg)
